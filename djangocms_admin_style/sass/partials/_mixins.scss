@@ -154,6 +154,28 @@
 	}
 }
 
+@mixin button-gray {
+	@include pie;
+	@include background-image(linear-gradient($button-gray-light-color, $button-gray-medium-color));
+	@include box-shadow($button-gray-light-color 0 0 $button-shadow-width inset);
+	background-color: $button-gray-medium-color !important;
+	border: 1px solid $button-gray-light-color;
+	border-bottom: 1px solid $button-gray-dark-color;
+	color: $button-gray-font-color !important;
+	&:hover {
+		background: $button-gray-light-color !important;
+		color: $button-gray-font-color;
+
+	}
+	&:active, &.select {
+		background: $button-gray-medium-color !important;
+		color: $button-gray-font-color;
+	}
+	&.animate {
+		@include stripes(.1);
+	}
+}
+
 @mixin button-inactive {
 	@include pie;
 	@include background-image(linear-gradient($button-inactive-light-color, $button-inactive-medium-color));
