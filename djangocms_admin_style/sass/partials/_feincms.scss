@@ -97,6 +97,7 @@
 
   @include border-bottom-left-radius();
   @include border-bottom-right-radius();
+  background-color: #fff;
 
   .control-unit {
     input[type="button"] {
