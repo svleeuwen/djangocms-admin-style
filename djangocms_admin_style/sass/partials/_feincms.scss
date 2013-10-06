@@ -33,36 +33,39 @@
     @include border-top-left-radius();
     background-image: none;
     border-bottom: 1px solid $line-color-light;
-    color: $font-color-white;
+    color: $font-color;
     font-size: 100%;
     margin-bottom: 2px;
     margin-top: 0;
     padding: 10px;
-    background-color: #5BAE31;
+    background-color: #fff;
+  }
+  .form-row {
   }
   span.modname {
     font-size: 16px;
     margin-left: 14px;
   }
   span.collapse {
-    color: $font-color-white;
+    color: $font-color;
   }
   .item-delete {
     content: '';
-    width: 16px;
-    height: 16px;
-    margin: 4px 6px 0 0;
-    background-image: url('../img/icon_deletelink_white.png');
+    width: 11px;
+    height: 11px;
+    margin: 7px 9px 0 0;
+    background-image: url('../img/icon_deletelink.png');
   }
   span.handle {
     height: 14px;
     width: 9px;
     margin: 13px 7px;
-    background-image: url('../img/icon_menu_white.png');
+    background-image: url('../img/icon_menu_gray.png');
   }
   .item-controls {
     height: 40px;
     background: url('../img/icon_cogs.png') no-repeat 16px center;
+    border-top: 1px solid #DDD;
   }
   .item-control-units {
     margin-left: 15px;
@@ -73,19 +76,31 @@
       padding: 4px 8px 4px !important;
     }
   }
-
 }
 
+// Highlight when dragging fieldset
+#main_wrapper .highlight {
+  @include border-radius();
+  background-image: none;
+  opacity: 1;
+  background-color: #e0e0e0;
+  border: 1px dashed #5e5e5e;
+}
+#main_wrapper .helper h2 {
+  @include border-radius();
+  padding: 5px 10px;
+  border: 1px solid #afafaf;
+}
+
+// 'Add new' control
 #main_wrapper .machine-control {
 
   @include border-bottom-left-radius();
   @include border-bottom-right-radius();
-  background-color: #fff;
 
   .control-unit {
     input[type="button"] {
       @include button-blue();
-      //background-color: #868686 !important;
       padding: 4px 8px 4px !important;
     }
   }
@@ -104,7 +119,7 @@
     cursor: default;
     padding: 7px 0;
     margin: 0em;
-    background-color: #828282;
+    background-color: #464B50;
   }
 
   #popup_content {
