@@ -6,6 +6,7 @@
   @include border-top-right-radius();
   @include border-top-left-radius();
   border: none;
+  border-right: 1px solid #ccc;
   background-image: none;
   background-color: $button-silver-light-color;
   color: $button-silver-font-color;
