@@ -28,6 +28,8 @@
 // Main inline fieldset
 #main_wrapper .module {
   padding: 0;
+  box-shadow: none;
+  -webkit-box-shadow: none;
 
   h2 {
     @include border-top-right-radius();
@@ -64,9 +66,9 @@
     background-image: url('../img/icon_menu_gray.png');
   }
   .item-controls {
-    height: 40px;
+    height: 40px;  
+    border-top: 1px solid #ddd;
     background: url('../img/icon_cogs.png') no-repeat 16px center;
-    border-top: 1px solid #DDD;
   }
   .item-control-units {
     margin-left: 15px;
@@ -95,7 +97,6 @@
 
 // 'Add new' control
 #main_wrapper .machine-control {
-
   @include border-bottom-left-radius();
   @include border-bottom-right-radius();
   background-color: #fff;
@@ -108,8 +109,7 @@
   }
 }
 
-
-
+// Popup dialog
 #popup_container {
   @include border-radius();
 
