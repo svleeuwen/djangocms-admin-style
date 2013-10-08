@@ -76,7 +76,6 @@
 
     input[type="button"] {
       @include button-gray();
-      //background-color: #868686 !important;
       padding: 4px 8px 4px !important;
     }
   }

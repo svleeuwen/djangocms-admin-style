@@ -9,885 +9,885 @@
 /* Grey */
 /* Paddings */
 /* Template Editor */
-/* line 14, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_reset.scss */
+/* line 14, ../../../sass/libs/html5-boilerplate/_reset.scss */
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 12px; vertical-align: baseline; }
 
-/* line 23, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_reset.scss */
+/* line 23, ../../../sass/libs/html5-boilerplate/_reset.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
 
-/* line 27, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_reset.scss */
+/* line 27, ../../../sass/libs/html5-boilerplate/_reset.scss */
 blockquote, q { quotes: none; }
 
-/* line 30, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_reset.scss */
+/* line 30, ../../../sass/libs/html5-boilerplate/_reset.scss */
 blockquote:before, blockquote:after, q:before, q:after { content: ""; content: none; }
 
-/* line 32, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_reset.scss */
+/* line 32, ../../../sass/libs/html5-boilerplate/_reset.scss */
 ins { background-color: #ff9; color: #000; text-decoration: none; }
 
-/* line 34, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_reset.scss */
+/* line 34, ../../../sass/libs/html5-boilerplate/_reset.scss */
 mark { background-color: #ff9; color: #000; font-style: italic; font-weight: bold; }
 
-/* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_reset.scss */
+/* line 36, ../../../sass/libs/html5-boilerplate/_reset.scss */
 del { text-decoration: line-through; }
 
-/* line 38, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_reset.scss */
+/* line 38, ../../../sass/libs/html5-boilerplate/_reset.scss */
 abbr[title], dfn[title] { border-bottom: 1px dotted; cursor: help; }
 
-/* line 40, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_reset.scss */
+/* line 40, ../../../sass/libs/html5-boilerplate/_reset.scss */
 table { border-collapse: collapse; border-spacing: 0; }
 
-/* line 42, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_reset.scss */
+/* line 42, ../../../sass/libs/html5-boilerplate/_reset.scss */
 hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
 
-/* line 11, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_fonts.scss */
+/* line 11, ../../../sass/libs/html5-boilerplate/_fonts.scss */
 body { font-size: 12px; font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif; line-height: 1.231; *font-size: small; }
 
-/* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_fonts.scss */
+/* line 20, ../../../sass/libs/html5-boilerplate/_fonts.scss */
 pre, code, kbd, samp { font-family: monospace, sans-serif; }
 
-/* line 15, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 15, ../../../sass/libs/html5-boilerplate/_styles.scss */
 html { overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
-/* line 17, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 17, ../../../sass/libs/html5-boilerplate/_styles.scss */
 ul, ol { margin-left: 2em; }
 
-/* line 18, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 18, ../../../sass/libs/html5-boilerplate/_styles.scss */
 ol { list-style-type: decimal; }
 
-/* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 20, ../../../sass/libs/html5-boilerplate/_styles.scss */
 td { vertical-align: top; }
 
-/* line 22, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 22, ../../../sass/libs/html5-boilerplate/_styles.scss */
 sub { font-size: 75%; line-height: 0; position: relative; bottom: -0.25em; }
 
-/* line 24, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 24, ../../../sass/libs/html5-boilerplate/_styles.scss */
 sup { font-size: 75%; line-height: 0; position: relative; top: -0.5em; }
 
-/* line 53, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 53, ../../../sass/libs/html5-boilerplate/_styles.scss */
 a:hover, a:active { outline: none; }
 
-/* line 58, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 58, ../../../sass/libs/html5-boilerplate/_styles.scss */
 pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; padding: 15px; }
 
-/* line 71, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 71, ../../../sass/libs/html5-boilerplate/_styles.scss */
 label, input[type="button"], input[type="submit"], input[type="image"], button { cursor: pointer; }
 
-/* line 80, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 80, ../../../sass/libs/html5-boilerplate/_styles.scss */
 button, input, select, textarea { width: auto; overflow: visible; margin: 0; font-size: 100%; font-family: sans-serif; vertical-align: baseline; }
 
-/* line 84, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 84, ../../../sass/libs/html5-boilerplate/_styles.scss */
 textarea { overflow: auto; vertical-align: text-top; }
 
-/* line 88, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 88, ../../../sass/libs/html5-boilerplate/_styles.scss */
 input::-moz-focus-inner, button::-moz-focus-inner { border: 0; padding: 0; }
 
-/* line 105, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 105, ../../../sass/libs/html5-boilerplate/_styles.scss */
 a:link { -webkit-tap-highlight-color: none; }
 
-/* line 118, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 118, ../../../sass/libs/html5-boilerplate/_styles.scss */
 .ie7 img { -ms-interpolation-mode: bicubic; }
 
-/* line 120, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 120, ../../../sass/libs/html5-boilerplate/_styles.scss */
 .ie6 legend, .ie7 legend { margin-left: -7px; }
 
-/* line 125, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_styles.scss */
+/* line 125, ../../../sass/libs/html5-boilerplate/_styles.scss */
 nav ul, nav li { margin: 0; list-style: none; list-style-image: none; }
 
-/* line 10, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_helpers.scss */
+/* line 10, ../../../sass/libs/html5-boilerplate/_helpers.scss */
 .ir { text-indent: -119988px; overflow: hidden; text-align: left; direction: ltr; background-repeat: no-repeat; }
 
-/* line 12, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_helpers.scss */
+/* line 12, ../../../sass/libs/html5-boilerplate/_helpers.scss */
 .hidden { display: none; visibility: hidden; }
 
-/* line 14, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_helpers.scss */
+/* line 14, ../../../sass/libs/html5-boilerplate/_helpers.scss */
 .visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
-/* line 50, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_helpers.scss */
+/* line 50, ../../../sass/libs/html5-boilerplate/_helpers.scss */
 .visuallyhidden.focusable:active, .visuallyhidden.focusable:focus { clip: auto; height: auto; margin: 0; overflow: visible; position: static; width: auto; }
 
-/* line 16, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_helpers.scss */
+/* line 16, ../../../sass/libs/html5-boilerplate/_helpers.scss */
 .clearfix { zoom: 1; }
-/* line 61, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_helpers.scss */
+/* line 61, ../../../sass/libs/html5-boilerplate/_helpers.scss */
 .clearfix:before, .clearfix:after { content: ""; display: table; }
-/* line 62, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/libs/html5-boilerplate/_helpers.scss */
+/* line 62, ../../../sass/libs/html5-boilerplate/_helpers.scss */
 .clearfix:after { clear: both; }
 
-@media all { /* line 3, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+@media all { /* line 3, ../../../sass/partials/_base.scss */
   body { background: url("../img/bg-pattern-light.jpg") #efefef repeat !important; }
-  /* line 5, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 5, ../../../sass/partials/_base.scss */
   body, select, input, textarea { color: #444444; }
-  /* line 7, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 7, ../../../sass/partials/_base.scss */
   h1 { font-size: 150%; color: #666666; font-weight: bold; margin: 20px 10px 10px; }
-  /* line 8, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 8, ../../../sass/partials/_base.scss */
   h2 { font-size: 130%; color: #666666; font-weight: bold; line-height: 1.75em; }
-  /* line 9, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 9, ../../../sass/partials/_base.scss */
   h3 { font-size: 120%; color: #444444; font-weight: bold; }
-  /* line 10, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 10, ../../../sass/partials/_base.scss */
   h4 { font-size: 110%; color: #666666; font-weight: bold; }
-  /* line 11, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 11, ../../../sass/partials/_base.scss */
   h5 { font-size: 100%; color: #444444; }
-  /* line 12, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 12, ../../../sass/partials/_base.scss */
   h6 { font-size: 100%; color: #666666; }
-  /* line 14, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 14, ../../../sass/partials/_base.scss */
   a, a:link { color: #029eee; text-decoration: none; }
-  /* line 17, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 17, ../../../sass/partials/_base.scss */
   a:visited, a:link:visited { color: #029eee; }
-  /* line 18, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 18, ../../../sass/partials/_base.scss */
   a:hover, a:link:hover { color: #2070b3; text-decoration: underline; }
-  /* line 19, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 19, ../../../sass/partials/_base.scss */
   a:active, a:link:active { color: #2070b3; }
-  /* line 22, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 22, ../../../sass/partials/_base.scss */
   p { font-weight: normal; margin-bottom: 6px; }
-  /* line 24, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 24, ../../../sass/partials/_base.scss */
   code { font-family: "Bitstream Vera Sans Mono", Monaco, "Courier New", Courier, monospace; background: inherit; color: #666; font-size: 11px; }
-  /* line 27, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 27, ../../../sass/partials/_base.scss */
   code strong { color: #930; }
-  /* line 30, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 30, ../../../sass/partials/_base.scss */
   pre { font-family: "Bitstream Vera Sans Mono", Monaco, "Courier New", Courier, monospace; background: inherit; color: #666; font-size: 11px; }
-  /* line 33, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 33, ../../../sass/partials/_base.scss */
   pre.literal-block { background: #eee; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 36, ../../../sass/partials/_base.scss */
   div hr { background: #dddddd; margin: 20px 0; border: none; }
-  /* line 38, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 38, ../../../sass/partials/_base.scss */
   strong { font-weight: bold; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 39, ../../../sass/partials/_base.scss */
   .small, small { font-size: 85%; margin-top: 0; }
-  /* line 41, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_base.scss */
+  /* line 41, ../../../sass/partials/_base.scss */
   .clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
-  /* line 2, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 2, ../../../sass/partials/_forms.scss */
   form button, form input, form select, form textarea { margin: 2px 0; font-size: 13px; }
-  /* line 3, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 3, ../../../sass/partials/_forms.scss */
   form small { color: #888888; }
-  /* line 4, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 4, ../../../sass/partials/_forms.scss */
   form hr { margin: 5px 0; }
-  /* line 5, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 5, ../../../sass/partials/_forms.scss */
   form fieldset { vertical-align: middle; line-height: 2em; }
-  /* line 6, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 6, ../../../sass/partials/_forms.scss */
   form fieldset.collapsed h2 { background-image: none; border-bottom: none; margin-bottom: 0; padding-bottom: 5px; }
-  /* line 7, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 7, ../../../sass/partials/_forms.scss */
   form label { word-wrap: break-word; color: #888888; line-height: 18px; display: inline-block; /*min-width: 160px;*/ }
-  /* line 9, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 9, ../../../sass/partials/_forms.scss */
   form label.required { font-weight: bold; }
-  /* line 12, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 12, ../../../sass/partials/_forms.scss */
   form input, form textarea { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; border: 1px solid #cccccc; color: #555555; padding: 6px 5px; outline: none; }
-  /* line 14, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 14, ../../../sass/partials/_forms.scss */
   form input[type="checkbox"], form input[type="radio"] { border: 0; display: inline; width: auto; margin-right: 6px; }
-  /* line 15, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 15, ../../../sass/partials/_forms.scss */
   form input[type="file"] { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; border: 1px solid #cccccc; color: #555555; padding: 6px 5px; outline: none; }
-  /* line 17, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 17, ../../../sass/partials/_forms.scss */
   form select { font-weight: normal; }
-  /* line 18, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 18, ../../../sass/partials/_forms.scss */
   form small { margin-left: 15px; }
-  /* line 19, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 19, ../../../sass/partials/_forms.scss */
   form .form-controls { text-align: right; margin: 15px 0 0 0; }
-  /* line 21, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 21, ../../../sass/partials/_forms.scss */
   form .form-controls p { margin-top: 6px; }
-  /* line 23, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 23, ../../../sass/partials/_forms.scss */
   form .input-list { display: inline-block; vertical-align: top; line-height: 20px; }
-  /* line 25, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 25, ../../../sass/partials/_forms.scss */
   form .extra .right { float: right; margin-right: 10px; }
-  /* line 29, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 29, ../../../sass/partials/_forms.scss */
   form .form-row { border-bottom-color: #f3f3f3; }
-  /* line 30, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 30, ../../../sass/partials/_forms.scss */
   form .form-row:last-child { border-bottom-color: transparent; }
-  /* line 32, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 32, ../../../sass/partials/_forms.scss */
   .form-row input, .form-row textarea { width: 250px; }
-  /* line 33, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 33, ../../../sass/partials/_forms.scss */
   .inline-group .form-row input, .inline-group .form-row textarea { width: auto; }
-  /* line 37, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 37, ../../../sass/partials/_forms.scss */
   input:invalid, textarea:invalid { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; }
-  /* line 42, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 42, ../../../sass/partials/_forms.scss */
   .no-boxshadow input:invalid, .no-boxshadow textarea:invalid { background-color: #f0dddd; }
-  /* line 45, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 45, ../../../sass/partials/_forms.scss */
   button { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #efefef)) !important; background-image: -webkit-linear-gradient(#ffffff, #efefef) !important; background-image: -moz-linear-gradient(#ffffff, #efefef) !important; background-image: -o-linear-gradient(#ffffff, #efefef) !important; background-image: linear-gradient(#ffffff, #efefef) !important; -moz-box-shadow: #efefef 0 0 2px inset !important; -webkit-box-shadow: #efefef 0 0 2px inset !important; -o-box-shadow: #efefef 0 0 2px inset !important; box-shadow: #efefef 0 0 2px inset !important; background-color: white !important; border: 1px solid #efefef !important; border-bottom: 1px solid #cccccc !important; color: #555555 !important; font-weight: bolder !important; font-size: 12px !important; line-height: 15px !important; overflow: visible; padding: 5px 10px 5px !important; text-decoration: none !important; background-image: none !important; width: auto; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 20, ../../../sass/partials/_mixins.scss */
   button:hover { background: white !important; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 36, ../../../sass/partials/_mixins.scss */
   button.small { padding: 3px 8px 4px !important; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 39, ../../../sass/partials/_mixins.scss */
   button:hover, button:active, button.select, button:visited { background: white; color: #555555; text-decoration: none; }
-  /* line 44, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 44, ../../../sass/partials/_mixins.scss */
   button.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 46, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 46, ../../../sass/partials/_forms.scss */
   input[type="submit"], input[type="button"] { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #efefef)) !important; background-image: -webkit-linear-gradient(#ffffff, #efefef) !important; background-image: -moz-linear-gradient(#ffffff, #efefef) !important; background-image: -o-linear-gradient(#ffffff, #efefef) !important; background-image: linear-gradient(#ffffff, #efefef) !important; -moz-box-shadow: #efefef 0 0 2px inset !important; -webkit-box-shadow: #efefef 0 0 2px inset !important; -o-box-shadow: #efefef 0 0 2px inset !important; box-shadow: #efefef 0 0 2px inset !important; background-color: white !important; border: 1px solid #efefef !important; border-bottom: 1px solid #cccccc !important; color: #555555 !important; font-weight: bolder !important; font-size: 12px !important; line-height: 15px !important; overflow: visible; padding: 5px 10px 5px !important; text-decoration: none !important; background-image: none !important; width: auto; padding: 8px 10px !important; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 20, ../../../sass/partials/_mixins.scss */
   input[type="submit"]:hover, input[type="button"]:hover { background: white !important; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 36, ../../../sass/partials/_mixins.scss */
   input[type="submit"].small, input[type="button"].small { padding: 3px 8px 4px !important; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 39, ../../../sass/partials/_mixins.scss */
   input[type="submit"]:hover, input[type="submit"]:active, input[type="submit"].select, input[type="submit"]:visited, input[type="button"]:hover, input[type="button"]:active, input[type="button"].select, input[type="button"]:visited { background: white; color: #555555; text-decoration: none; }
-  /* line 44, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 44, ../../../sass/partials/_mixins.scss */
   input[type="submit"].animate, input[type="button"].animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 48, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 48, ../../../sass/partials/_forms.scss */
   input[type="submit"].default, input[type="button"].default { -moz-box-shadow: #5bbdee 0 0 2px inset !important; -webkit-box-shadow: #5bbdee 0 0 2px inset !important; -o-box-shadow: #5bbdee 0 0 2px inset !important; box-shadow: #5bbdee 0 0 2px inset !important; background-color: #029eee !important; background-image: none !important; border: 1px solid #5bbdee !important; border-bottom: 1px solid #0072ac !important; color: white !important; padding: 7px 10px !important; margin-top: 1px; }
-  /* line 51, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 51, ../../../sass/partials/_mixins.scss */
   input[type="submit"].default, input[type="submit"].default:visited, input[type="button"].default, input[type="button"].default:visited { background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #5bbdee), color-stop(100%, #029eee)) !important; background-image: -webkit-linear-gradient(#5bbdee, #029eee) !important; background-image: -moz-linear-gradient(#5bbdee, #029eee) !important; background-image: -o-linear-gradient(#5bbdee, #029eee) !important; background-image: linear-gradient(#5bbdee, #029eee) !important; }
-  /* line 59, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 59, ../../../sass/partials/_mixins.scss */
   input[type="submit"].default:hover, input[type="submit"].default:focus, input[type="button"].default:hover, input[type="button"].default:focus { background: #5bbdee !important; color: white !important; }
-  /* line 63, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 63, ../../../sass/partials/_mixins.scss */
   input[type="submit"].default:active, input[type="button"].default:active { background: #029eee !important; }
-  /* line 66, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 66, ../../../sass/partials/_mixins.scss */
   input[type="submit"].default.animate, input[type="button"].default.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 50, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 50, ../../../sass/partials/_forms.scss */
   a.button { text-decoration: none; cursor: pointer; -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #efefef)) !important; background-image: -webkit-linear-gradient(#ffffff, #efefef) !important; background-image: -moz-linear-gradient(#ffffff, #efefef) !important; background-image: -o-linear-gradient(#ffffff, #efefef) !important; background-image: linear-gradient(#ffffff, #efefef) !important; -moz-box-shadow: #efefef 0 0 2px inset !important; -webkit-box-shadow: #efefef 0 0 2px inset !important; -o-box-shadow: #efefef 0 0 2px inset !important; box-shadow: #efefef 0 0 2px inset !important; background-color: white !important; border: 1px solid #efefef !important; border-bottom: 1px solid #cccccc !important; color: #555555 !important; font-weight: bolder !important; font-size: 12px !important; line-height: 15px !important; overflow: visible; padding: 5px 10px 5px !important; text-decoration: none !important; background-image: none !important; width: auto; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 20, ../../../sass/partials/_mixins.scss */
   a.button:hover { background: white !important; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 36, ../../../sass/partials/_mixins.scss */
   a.button.small { padding: 3px 8px 4px !important; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 39, ../../../sass/partials/_mixins.scss */
   a.button:hover, a.button:active, a.button.select, a.button:visited { background: white; color: #555555; text-decoration: none; }
-  /* line 44, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 44, ../../../sass/partials/_mixins.scss */
   a.button.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 52, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 52, ../../../sass/partials/_forms.scss */
   a.button.tab { -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; border-radius: 0; }
-  /* line 57, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 57, ../../../sass/partials/_forms.scss */
   .form-row p.datetime { line-height: 36px; }
-  /* line 63, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 63, ../../../sass/partials/_forms.scss */
   div.calendar table caption { background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #595f65), color-stop(100%, #464b50)); background-image: -webkit-linear-gradient(#595f65, #464b50); background-image: -moz-linear-gradient(#595f65, #464b50); background-image: -o-linear-gradient(#595f65, #464b50); background-image: linear-gradient(#595f65, #464b50); background-color: #595f65; color: white !important; margin: 0; -moz-border-radius-topleft: 3px; -webkit-border-top-left-radius: 3px; -o-border-top-left-radius: 3px; -ms-border-top-left-radius: 3px; -khtml-border-top-left-radius: 3px; border-top-left-radius: 3px; -moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; -o-border-top-right-radius: 3px; -ms-border-top-right-radius: 3px; -khtml-border-top-right-radius: 3px; border-top-right-radius: 3px; }
-  /* line 66, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 66, ../../../sass/partials/_forms.scss */
   div.calendar table td { padding: 0; background: #f3f3f3; }
-  /* line 67, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 67, ../../../sass/partials/_forms.scss */
   div.calendar table td a { padding: 6px 4px; }
-  /* line 69, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 69, ../../../sass/partials/_forms.scss */
   div.calendar .today a { background: #addef6; }
-  /* line 71, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 71, ../../../sass/partials/_forms.scss */
   div.calendarbox { width: 200px !important; }
-  /* line 73, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 73, ../../../sass/partials/_forms.scss */
   div.calendarbox table th, div.calendarbox table td { line-height: 12px; }
-  /* line 74, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 74, ../../../sass/partials/_forms.scss */
   div.calendarbox .calendarnav-previous, div.calendarbox .calendarnav-next { background: none; color: white; text-decoration: none; padding: 4px 7px 6px; }
-  /* line 76, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 76, ../../../sass/partials/_forms.scss */
   div.calendarbox .calendarnav-previous:hover, div.calendarbox .calendarnav-previous:focus, div.calendarbox .calendarnav-next:hover, div.calendarbox .calendarnav-next:focus { background: #666; }
-  /* line 78, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 78, ../../../sass/partials/_forms.scss */
   div.calendarbox .calendar-shortcuts { background: transparent; padding: 10px 0 6px 0; border-color: #ddd; }
-  /* line 80, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 80, ../../../sass/partials/_forms.scss */
   div.calendarbox, div.clockbox { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background: #f3f3f3; padding: 0; margin: 0; -moz-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1); -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1); -o-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1); box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1); border: 1px solid #ccc; }
-  /* line 83, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 83, ../../../sass/partials/_forms.scss */
   div.calendarbox caption, div.calendarbox h2, div.clockbox caption, div.clockbox h2 { font-size: 14px; }
-  /* line 84, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 84, ../../../sass/partials/_forms.scss */
   div.calendarbox .calendar-cancel, div.clockbox .calendar-cancel { -moz-border-radius-bottomleft: 3px; -webkit-border-bottom-left-radius: 3px; -o-border-bottom-left-radius: 3px; -ms-border-bottom-left-radius: 3px; -khtml-border-bottom-left-radius: 3px; border-bottom-left-radius: 3px; -moz-border-radius-bottomright: 3px; -webkit-border-bottom-right-radius: 3px; -o-border-bottom-right-radius: 3px; -ms-border-bottom-right-radius: 3px; -khtml-border-bottom-right-radius: 3px; border-bottom-right-radius: 3px; background: none; margin-top: 5px !important; padding: 5px 0 !important; }
-  /* line 88, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 88, ../../../sass/partials/_forms.scss */
   div.clockbox { -moz-border-radius-topleft: 3px; -webkit-border-top-left-radius: 3px; -o-border-top-left-radius: 3px; -ms-border-top-left-radius: 3px; -khtml-border-top-left-radius: 3px; border-top-left-radius: 3px; -moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; -o-border-top-right-radius: 3px; -ms-border-top-right-radius: 3px; -khtml-border-top-right-radius: 3px; border-top-right-radius: 3px; }
-  /* line 90, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 90, ../../../sass/partials/_forms.scss */
   div.clockbox h2 { background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #595f65), color-stop(100%, #464b50)); background-image: -webkit-linear-gradient(#595f65, #464b50); background-image: -moz-linear-gradient(#595f65, #464b50); background-image: -o-linear-gradient(#595f65, #464b50); background-image: linear-gradient(#595f65, #464b50); background-color: #595f65; color: white !important; -moz-border-radius-topleft: 3px; -webkit-border-top-left-radius: 3px; -o-border-top-left-radius: 3px; -ms-border-top-left-radius: 3px; -khtml-border-top-left-radius: 3px; border-top-left-radius: 3px; -moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; -o-border-top-right-radius: 3px; -ms-border-top-right-radius: 3px; -khtml-border-top-right-radius: 3px; border-top-right-radius: 3px; }
-  /* line 93, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 93, ../../../sass/partials/_forms.scss */
   div.clockbox .timelist a { padding: 5px 2px; }
-  /* line 96, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 96, ../../../sass/partials/_forms.scss */
   .timelist a, .timelist a:active, .timelist a:focus, .timelist a:hover { background: none !important; }
-  /* line 99, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 99, ../../../sass/partials/_forms.scss */
   span.datetimeshortcuts a { color: #029eee; }
-  /* line 103, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_forms.scss */
+  /* line 103, ../../../sass/partials/_forms.scss */
   .selector .selector-chooseall, .selector .selector-clearall { line-height: 14px; }
-  /* line 1, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_tables.scss */
+  /* line 1, ../../../sass/partials/_tables.scss */
   table { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background: white; border: none; margin: 20px 0; padding: 5px; width: 100%; }
-  /* line 4, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_tables.scss */
+  /* line 4, ../../../sass/partials/_tables.scss */
   table th { border-bottom: 1px solid #dddddd; }
-  /* line 5, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_tables.scss */
+  /* line 5, ../../../sass/partials/_tables.scss */
   table th, table td { padding: 5px 10px; text-align: left; vertical-align: middle; }
-  /* line 6, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_tables.scss */
+  /* line 6, ../../../sass/partials/_tables.scss */
   table thead th, table thead th.sorted, table tfoot td { background: #fcfcfc; }
-  /* line 7, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_tables.scss */
+  /* line 7, ../../../sass/partials/_tables.scss */
   table thead th.sortable:hover { background: #f1f1f1; }
-  /* line 8, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_tables.scss */
+  /* line 8, ../../../sass/partials/_tables.scss */
   table td, table th { font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif; padding: 5px; }
-  /* line 9, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_tables.scss */
+  /* line 9, ../../../sass/partials/_tables.scss */
   table td.original { vertical-align: top; }
-  /* line 11, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_tables.scss */
+  /* line 11, ../../../sass/partials/_tables.scss */
   table tr td { border-bottom: 1px solid #f3f3f3; }
-  /* line 14, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_tables.scss */
+  /* line 14, ../../../sass/partials/_tables.scss */
   table th a, table th a:link, table th a:visited, table th a:link:visited { color: #444444; }
-  /* line 16, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_tables.scss */
+  /* line 16, ../../../sass/partials/_tables.scss */
   table .row1 { background: white; }
-  /* line 17, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_tables.scss */
+  /* line 17, ../../../sass/partials/_tables.scss */
   table .row2 { background: #fcfcfc; }
-  /* line 19, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_tables.scss */
+  /* line 19, ../../../sass/partials/_tables.scss */
   fieldset table { border: none; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_tables.scss */
+  /* line 20, ../../../sass/partials/_tables.scss */
   .results table tbody tr:hover { background: #f1faff; }
-  /* line 3, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_filer.scss */
+  /* line 3, ../../../sass/partials/_filer.scss */
   .filebrowser #content { margin-top: 20px; }
-  /* line 4, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_filer.scss */
+  /* line 4, ../../../sass/partials/_filer.scss */
   .filebrowser h1.folder_header { background-image: none !important; background: none; margin: 0; }
-  /* line 6, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_filer.scss */
+  /* line 6, ../../../sass/partials/_filer.scss */
   .filebrowser h1.folder_header .changelink { font-size: 16px; line-height: 30px; }
-  /* line 8, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_filer.scss */
+  /* line 8, ../../../sass/partials/_filer.scss */
   .filebrowser .module table td { line-height: 16px; }
-  /* line 1, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_cmsplaceholders.scss */
+  /* line 1, ../../../sass/partials/_cmsplaceholders.scss */
   .plugin-holder { background: transparent url("../img/pluginlist-holder-bg.png") repeat-y !important; }
-  /* line 3, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_cmsplaceholders.scss */
+  /* line 3, ../../../sass/partials/_cmsplaceholders.scss */
   .plugin-holder h2 { margin-bottom: 0 !important; }
-  /* line 4, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_cmsplaceholders.scss */
+  /* line 4, ../../../sass/partials/_cmsplaceholders.scss */
   .plugin-holder .plugin-list-holder { width: 285px; }
-  /* line 6, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_cmsplaceholders.scss */
+  /* line 6, ../../../sass/partials/_cmsplaceholders.scss */
   .plugin-holder .plugin-list-holder .text { width: 240px; }
-  /* line 7, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_cmsplaceholders.scss */
+  /* line 7, ../../../sass/partials/_cmsplaceholders.scss */
   .plugin-holder .plugin-list-holder ul.plugin-list li.active { background: url("../img/bg-pattern-light.jpg") #efefef repeat; }
-  /* line 9, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_cmsplaceholders.scss */
+  /* line 9, ../../../sass/partials/_cmsplaceholders.scss */
   .plugin-holder .plugin-list-holder ul.plugin-list li.active:hover { background: white url("../../cms/images/sitemap-li-bg.jpg") repeat-x 0px -100px; }
-  /* line 13, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_cmsplaceholders.scss */
+  /* line 13, ../../../sass/partials/_cmsplaceholders.scss */
   .plugin-editor > iframe { min-height: 600px; }
-  /* line 3, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 3, ../../../sass/partials/_content.scss */
   #container { width: auto !important; min-width: auto !important; }
-  /* line 4, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 4, ../../../sass/partials/_content.scss */
   #content { width: auto !important; min-width: auto !important; }
-  /* line 5, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 5, ../../../sass/partials/_content.scss */
   #changelist { width: auto !important; }
-  /* line 8, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 8, ../../../sass/partials/_content.scss */
   .module { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; -moz-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); -webkit-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); -o-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); padding: 0; background: white; border: none; margin-bottom: 5px; margin-bottom: 10px; padding: 10px 15px 15px; }
-  /* line 6, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 6, ../../../sass/partials/_mixins.scss */
   .module h2, .module h3, .module h4, .module h5, .module h6 { margin-bottom: 12px; margin-top: 0; }
-  /* line 10, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 10, ../../../sass/partials/_content.scss */
   .module h2 { background: none; border-bottom: 1px solid #dddddd; color: #444444; font-size: 100%; margin-bottom: 2px; margin-top: 0; padding: 10px; }
-  /* line 12, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 12, ../../../sass/partials/_content.scss */
   .module caption { background: none; color: #888888; font-size: 130%; font-weight: bold; line-height: 1.75em; margin: 0 0 5px 5px; padding: 0; }
-  /* line 15, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 15, ../../../sass/partials/_content.scss */
   .module caption a.section, .module caption a.section:link, .module caption a.section:visited { color: #888888; }
-  /* line 17, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 17, ../../../sass/partials/_content.scss */
   .module table { margin: 0; }
-  /* line 19, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 19, ../../../sass/partials/_content.scss */
   .module table th { padding: 2px 5px !important; line-height: 13px; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 20, ../../../sass/partials/_content.scss */
   .module table td { padding: 8px 5px; line-height: 13px; }
-  /* line 25, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 25, ../../../sass/partials/_content.scss */
   .module h2, .module caption, .inline-group h2 { background: none; color: #222222; font-size: 16px; }
-  /* line 26, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 26, ../../../sass/partials/_content.scss */
   .inline-group { border: 0; -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; -moz-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); -webkit-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); -o-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); padding: 0; background: white; border: none; margin-bottom: 5px; padding: 10px 15px 15px; }
-  /* line 6, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 6, ../../../sass/partials/_mixins.scss */
   .inline-group h2, .inline-group h3, .inline-group h4, .inline-group h5, .inline-group h6 { margin-bottom: 12px; margin-top: 0; }
-  /* line 28, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 28, ../../../sass/partials/_content.scss */
   .inline-group .module { background: none !important; -moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; -ms-border-radius: 0; -khtml-border-radius: 0; border-radius: 0; -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none; box-shadow: none; border: none !important; padding: 0; }
-  /* line 31, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 31, ../../../sass/partials/_content.scss */
   .inline-group .module h2 { margin-bottom: 10px; padding-top: 0; padding-bottom: 8px; }
-  /* line 32, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 32, ../../../sass/partials/_content.scss */
   .inline-group .module .add-row a { border-bottom: none; color: #5da03d; }
-  /* line 33, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 33, ../../../sass/partials/_content.scss */
   .inline-group .module .add-row td { background: none; border-bottom: none; }
-  /* line 34, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 34, ../../../sass/partials/_content.scss */
   .inline-group .module tr.add-row:hover { background: none; }
-  /* line 35, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 35, ../../../sass/partials/_content.scss */
   .inline-group .module .form-row { border-bottom: none !important; }
-  /* line 37, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 37, ../../../sass/partials/_content.scss */
   .inline-group .module { width: 100%; overflow: auto; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 39, ../../../sass/partials/_content.scss */
   .inline-group .add-row, .inline-group .add-row td { border-bottom: none; background: none !important; }
-  /* line 40, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 40, ../../../sass/partials/_content.scss */
   .inline-group .add-row a { color: #5da03d; }
-  /* line 43, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 43, ../../../sass/partials/_content.scss */
   .inline-related { margin-bottom: 5px; }
-  /* line 45, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 45, ../../../sass/partials/_content.scss */
   .inline-related h3 { background: none; border-bottom: none; }
-  /* line 47, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 47, ../../../sass/partials/_content.scss */
   .submit-row { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; border: 1px solid #dddddd; padding: 10px; -moz-box-shadow: white 0 0 2px inset !important; -webkit-box-shadow: white 0 0 2px inset !important; -o-box-shadow: white 0 0 2px inset !important; box-shadow: white 0 0 2px inset !important; background: #f1f1f1; background: rgba(255, 255, 255, 0.2) !important; }
-  /* line 52, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 52, ../../../sass/partials/_content.scss */
   .submit-row .deletelink-box { line-height: 24px; }
-  /* line 53, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 53, ../../../sass/partials/_content.scss */
   .submit-row .deletelink { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #efefef)) !important; background-image: -webkit-linear-gradient(#ffffff, #efefef) !important; background-image: -moz-linear-gradient(#ffffff, #efefef) !important; background-image: -o-linear-gradient(#ffffff, #efefef) !important; background-image: linear-gradient(#ffffff, #efefef) !important; -moz-box-shadow: #efefef 0 0 2px inset !important; -webkit-box-shadow: #efefef 0 0 2px inset !important; -o-box-shadow: #efefef 0 0 2px inset !important; box-shadow: #efefef 0 0 2px inset !important; background-color: white !important; border: 1px solid #efefef !important; border-bottom: 1px solid #cccccc !important; color: #555555 !important; font-weight: bolder !important; font-size: 12px !important; line-height: 15px !important; overflow: visible; padding: 5px 10px 5px !important; text-decoration: none !important; background-image: none !important; width: auto; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ef4a4a), color-stop(100%, #e80101)) !important; background-image: -webkit-linear-gradient(#ef4a4a, #e80101) !important; background-image: -moz-linear-gradient(#ef4a4a, #e80101) !important; background-image: -o-linear-gradient(#ef4a4a, #e80101) !important; background-image: linear-gradient(#ef4a4a, #e80101) !important; -moz-box-shadow: #ef4a4a 0 0 2px inset !important; -webkit-box-shadow: #ef4a4a 0 0 2px inset !important; -o-box-shadow: #ef4a4a 0 0 2px inset !important; box-shadow: #ef4a4a 0 0 2px inset !important; background-color: #e80101 !important; border: 1px solid #ef4a4a !important; border-bottom: 1px solid #d50101 !important; color: white !important; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 20, ../../../sass/partials/_mixins.scss */
   .submit-row .deletelink:hover { background: white !important; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 36, ../../../sass/partials/_mixins.scss */
   .submit-row .deletelink.small { padding: 3px 8px 4px !important; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 39, ../../../sass/partials/_mixins.scss */
   .submit-row .deletelink:hover, .submit-row .deletelink:active, .submit-row .deletelink.select, .submit-row .deletelink:visited { background: white; color: #555555; text-decoration: none; }
-  /* line 44, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 44, ../../../sass/partials/_mixins.scss */
   .submit-row .deletelink.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 120, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 120, ../../../sass/partials/_mixins.scss */
   .submit-row .deletelink:hover { background: #ef4a4a !important; color: white !important; }
-  /* line 124, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 124, ../../../sass/partials/_mixins.scss */
   .submit-row .deletelink:active { background: #e80101 !important; }
-  /* line 127, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 127, ../../../sass/partials/_mixins.scss */
   .submit-row .deletelink.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 54, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 54, ../../../sass/partials/_content.scss */
   .submit-row input[type="submit"].default { margin-left: 10px; }
-  /* line 59, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 59, ../../../sass/partials/_content.scss */
   .selector .selector-available, .selector .selector-chosen { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; border: 1px solid #dddddd; }
-  /* line 61, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 61, ../../../sass/partials/_content.scss */
   .selector .selector-available h2, .selector .selector-chosen h2 { color: #444444 !important; background: none !important; border: none; margin-bottom: 0; font-size: 13px; line-height: 16px; }
-  /* line 63, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 63, ../../../sass/partials/_content.scss */
   .selector .selector-available input, .selector .selector-chosen input { width: 252px; margin: -5px 0 2px 0; }
-  /* line 65, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 65, ../../../sass/partials/_content.scss */
   .selector .selector-filter { border: none; }
-  /* line 66, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 66, ../../../sass/partials/_content.scss */
   .selector .selector-filter label { display: none; }
-  /* line 67, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 67, ../../../sass/partials/_content.scss */
   .selector select[multiple] { border: 1px solid #dddddd; border-left: none; border-right: none; margin-bottom: 0; }
-  /* line 72, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 72, ../../../sass/partials/_content.scss */
   body.login { background: #fcfcfc url("../img/bg-pattern.jpg") repeat !important; }
-  /* line 74, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 74, ../../../sass/partials/_content.scss */
   body.login #container { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; -moz-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); -webkit-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); -o-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); padding: 0; background: white; border: none; margin-bottom: 5px; border: none; width: 340px !important; -moz-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px, white 0px 1px 1px inset; -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px, white 0px 1px 1px inset; -o-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px, white 0px 1px 1px inset; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px, white 0px 1px 1px inset; }
-  /* line 6, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 6, ../../../sass/partials/_mixins.scss */
   body.login #container h2, body.login #container h3, body.login #container h4, body.login #container h5, body.login #container h6 { margin-bottom: 12px; margin-top: 0; }
-  /* line 77, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 77, ../../../sass/partials/_content.scss */
   body.login #container #header { background: none !important; }
-  /* line 79, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 79, ../../../sass/partials/_content.scss */
   body.login #container #header #branding h1 { color: #444444; margin: 20px 0 !important; text-align: center; }
-  /* line 81, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 81, ../../../sass/partials/_content.scss */
   body.login #container #content { margin: 0 !important; padding: 25px 40px !important; }
-  /* line 84, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 84, ../../../sass/partials/_content.scss */
   body.login #container #content #content-main form { margin-top: 0 !important; }
-  /* line 86, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 86, ../../../sass/partials/_content.scss */
   body.login #container #content #content-main .form-row label { font-weight: normal; width: 100%; text-align: center; }
-  /* line 87, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 87, ../../../sass/partials/_content.scss */
   body.login #container #content #content-main .form-row input { font-size: 16px; padding: 10px; width: 240px !important; }
-  /* line 89, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 89, ../../../sass/partials/_content.scss */
   body.login #container #content #content-main .submit-row { border: none; background: none; padding: 20px 0 0 0; }
-  /* line 91, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 91, ../../../sass/partials/_content.scss */
   body.login #container #content #content-main .submit-row input, body.login #container #content #content-main .submit-row input[type="submit"] { background-image: none; -moz-box-shadow: #5bbdee 0 0 2px inset !important; -webkit-box-shadow: #5bbdee 0 0 2px inset !important; -o-box-shadow: #5bbdee 0 0 2px inset !important; box-shadow: #5bbdee 0 0 2px inset !important; background-color: #029eee !important; background-image: none !important; border: 1px solid #5bbdee !important; border-bottom: 1px solid #0072ac !important; color: white !important; width: 262px !important; }
-  /* line 51, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 51, ../../../sass/partials/_mixins.scss */
   body.login #container #content #content-main .submit-row input, body.login #container #content #content-main .submit-row input:visited, body.login #container #content #content-main .submit-row input[type="submit"], body.login #container #content #content-main .submit-row input[type="submit"]:visited { background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #5bbdee), color-stop(100%, #029eee)) !important; background-image: -webkit-linear-gradient(#5bbdee, #029eee) !important; background-image: -moz-linear-gradient(#5bbdee, #029eee) !important; background-image: -o-linear-gradient(#5bbdee, #029eee) !important; background-image: linear-gradient(#5bbdee, #029eee) !important; }
-  /* line 59, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 59, ../../../sass/partials/_mixins.scss */
   body.login #container #content #content-main .submit-row input:hover, body.login #container #content #content-main .submit-row input:focus, body.login #container #content #content-main .submit-row input[type="submit"]:hover, body.login #container #content #content-main .submit-row input[type="submit"]:focus { background: #5bbdee !important; color: white !important; }
-  /* line 63, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 63, ../../../sass/partials/_mixins.scss */
   body.login #container #content #content-main .submit-row input:active, body.login #container #content #content-main .submit-row input[type="submit"]:active { background: #029eee !important; }
-  /* line 66, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 66, ../../../sass/partials/_mixins.scss */
   body.login #container #content #content-main .submit-row input.animate, body.login #container #content #content-main .submit-row input[type="submit"].animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 93, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 93, ../../../sass/partials/_content.scss */
   body.login #container #content #content-main .submit-row label { display: none; }
-  /* line 97, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 97, ../../../sass/partials/_content.scss */
   body.login #container #footer { display: none; }
-  /* line 102, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 102, ../../../sass/partials/_content.scss */
   #header { background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #595f65), color-stop(100%, #464b50)); background-image: -webkit-linear-gradient(#595f65, #464b50); background-image: -moz-linear-gradient(#595f65, #464b50); background-image: -o-linear-gradient(#595f65, #464b50); background-image: linear-gradient(#595f65, #464b50); background-color: #464b50; color: white !important; height: 46px; }
-  /* line 105, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 105, ../../../sass/partials/_content.scss */
   #header #branding h1 { color: white; padding: 3px 25px; }
-  /* line 106, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 106, ../../../sass/partials/_content.scss */
   #header #user-tools { padding: 16px 25px 0; }
-  /* line 108, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 108, ../../../sass/partials/_content.scss */
   div.breadcrumbs { background: #595f65; border-top: 1px solid #444444; color: #ddd; padding-left: 25px; border-bottom: 0; padding-bottom: 4px; }
-  /* line 111, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 111, ../../../sass/partials/_content.scss */
   div.breadcrumbs a { color: #bbb; }
-  /* line 113, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 113, ../../../sass/partials/_content.scss */
   div.breadcrumbs a:hover { color: #cccccc; text-decoration: none; }
-  /* line 119, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 119, ../../../sass/partials/_content.scss */
   .dashboard #container #content-main { min-width: 400px; max-width: 640px; }
-  /* line 121, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 121, ../../../sass/partials/_content.scss */
   .dashboard #container #content-main table th, .dashboard #container #content-main table td { width: auto; border-color: #f3f3f3; }
-  /* line 123, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 123, ../../../sass/partials/_content.scss */
   .dashboard #container #content-main table th a, .dashboard #container #content-main table td a { line-height: 16px; }
-  /* line 125, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 125, ../../../sass/partials/_content.scss */
   .dashboard #container #content-main table th { width: 100%; }
-  /* line 127, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 127, ../../../sass/partials/_content.scss */
   .dashboard #container #content-related { float: left; }
-  /* line 129, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 129, ../../../sass/partials/_content.scss */
   .dashboard #container #content-related .module { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; border: 1px solid #dddddd; margin-left: 10px; -moz-box-shadow: white 0 0 2px inset !important; -webkit-box-shadow: white 0 0 2px inset !important; -o-box-shadow: white 0 0 2px inset !important; box-shadow: white 0 0 2px inset !important; background: rgba(255, 255, 255, 0.2) !important; padding: 10px 20px !important; }
-  /* line 132, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 132, ../../../sass/partials/_content.scss */
   .dashboard #container #content-related .module ul.actionlist { padding: 0; }
-  /* line 134, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 134, ../../../sass/partials/_content.scss */
   .dashboard #container #content-related .module ul.actionlist .changelink a { line-height: 16px; }
-  /* line 136, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 136, ../../../sass/partials/_content.scss */
   .dashboard #container #content-related .module h2 { background: none; color: #888888; padding: 0 0 5px 0; }
-  /* line 137, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 137, ../../../sass/partials/_content.scss */
   .dashboard #container #content-related .module h3 { border-bottom: 1px solid #dddddd; line-height: 20px; margin: 0 0 5px 0; padding: 0; }
-  /* line 138, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 138, ../../../sass/partials/_content.scss */
   .dashboard #container #content-related .module p { padding: 0; }
-  /* line 141, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 141, ../../../sass/partials/_content.scss */
   .dashboard #container table tbody tr:hover { background: none; }
-  /* line 145, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 145, ../../../sass/partials/_content.scss */
   a.addlink, a.addlink:link, a.addlink:visited { color: #5bae31; }
-  /* line 146, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 146, ../../../sass/partials/_content.scss */
   a.addlink:hover, a.addlink:focus, a.addlink:active { color: #5da03d; }
-  /* line 150, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 150, ../../../sass/partials/_content.scss */
   .object-tools { margin-top: -38px; }
-  /* line 152, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 152, ../../../sass/partials/_content.scss */
   .object-tools li { list-style: none; background: none; padding-left: 5px; height: 32px; }
-  /* line 154, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 154, ../../../sass/partials/_content.scss */
   .object-tools li:hover { background: none; }
-  /* line 155, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 155, ../../../sass/partials/_content.scss */
   .object-tools li > a { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #efefef)) !important; background-image: -webkit-linear-gradient(#ffffff, #efefef) !important; background-image: -moz-linear-gradient(#ffffff, #efefef) !important; background-image: -o-linear-gradient(#ffffff, #efefef) !important; background-image: linear-gradient(#ffffff, #efefef) !important; -moz-box-shadow: #efefef 0 0 2px inset !important; -webkit-box-shadow: #efefef 0 0 2px inset !important; -o-box-shadow: #efefef 0 0 2px inset !important; box-shadow: #efefef 0 0 2px inset !important; background-color: white !important; border: 1px solid #efefef !important; border-bottom: 1px solid #cccccc !important; color: #555555 !important; font-weight: bolder !important; font-size: 12px !important; line-height: 15px !important; overflow: visible; padding: 5px 10px 5px !important; text-decoration: none !important; background-image: none !important; width: auto; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 20, ../../../sass/partials/_mixins.scss */
   .object-tools li > a:hover { background: white !important; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 36, ../../../sass/partials/_mixins.scss */
   .object-tools li > a.small { padding: 3px 8px 4px !important; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 39, ../../../sass/partials/_mixins.scss */
   .object-tools li > a:hover, .object-tools li > a:active, .object-tools li > a.select, .object-tools li > a:visited { background: white; color: #555555; text-decoration: none; }
-  /* line 44, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 44, ../../../sass/partials/_mixins.scss */
   .object-tools li > a.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 157, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 157, ../../../sass/partials/_content.scss */
   .object-tools .addlink { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #efefef)) !important; background-image: -webkit-linear-gradient(#ffffff, #efefef) !important; background-image: -moz-linear-gradient(#ffffff, #efefef) !important; background-image: -o-linear-gradient(#ffffff, #efefef) !important; background-image: linear-gradient(#ffffff, #efefef) !important; -moz-box-shadow: #efefef 0 0 2px inset !important; -webkit-box-shadow: #efefef 0 0 2px inset !important; -o-box-shadow: #efefef 0 0 2px inset !important; box-shadow: #efefef 0 0 2px inset !important; background-color: white !important; border: 1px solid #efefef !important; border-bottom: 1px solid #cccccc !important; color: #555555 !important; font-weight: bolder !important; font-size: 12px !important; line-height: 15px !important; overflow: visible; padding: 5px 10px 5px !important; text-decoration: none !important; background-image: none !important; width: auto; -moz-box-shadow: #7cbe5a 0 0 2px inset !important; -webkit-box-shadow: #7cbe5a 0 0 2px inset !important; -o-box-shadow: #7cbe5a 0 0 2px inset !important; box-shadow: #7cbe5a 0 0 2px inset !important; background-color: #5bae31 !important; border: 1px solid #7cbe5a !important; border-bottom: 1px solid #5da03d !important; color: white !important; color: white !important; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 20, ../../../sass/partials/_mixins.scss */
   .object-tools .addlink:hover { background: white !important; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 36, ../../../sass/partials/_mixins.scss */
   .object-tools .addlink.small { padding: 3px 8px 4px !important; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 39, ../../../sass/partials/_mixins.scss */
   .object-tools .addlink:hover, .object-tools .addlink:active, .object-tools .addlink.select, .object-tools .addlink:visited { background: white; color: #555555; text-decoration: none; }
-  /* line 44, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 44, ../../../sass/partials/_mixins.scss */
   .object-tools .addlink.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 73, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 73, ../../../sass/partials/_mixins.scss */
   .object-tools .addlink, .object-tools .addlink:visited { background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #7cbe5a), color-stop(100%, #5bae31)) !important; background-image: -webkit-linear-gradient(#7cbe5a, #5bae31) !important; background-image: -moz-linear-gradient(#7cbe5a, #5bae31) !important; background-image: -o-linear-gradient(#7cbe5a, #5bae31) !important; background-image: linear-gradient(#7cbe5a, #5bae31) !important; }
-  /* line 80, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 80, ../../../sass/partials/_mixins.scss */
   .object-tools .addlink:hover { background: #7cbe5a !important; color: white !important; }
-  /* line 84, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 84, ../../../sass/partials/_mixins.scss */
   .object-tools .addlink:active { background: #5bae31 !important; }
-  /* line 87, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 87, ../../../sass/partials/_mixins.scss */
   .object-tools .addlink.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 158, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 158, ../../../sass/partials/_content.scss */
   .object-tools .recoverlink { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #efefef)) !important; background-image: -webkit-linear-gradient(#ffffff, #efefef) !important; background-image: -moz-linear-gradient(#ffffff, #efefef) !important; background-image: -o-linear-gradient(#ffffff, #efefef) !important; background-image: linear-gradient(#ffffff, #efefef) !important; -moz-box-shadow: #efefef 0 0 2px inset !important; -webkit-box-shadow: #efefef 0 0 2px inset !important; -o-box-shadow: #efefef 0 0 2px inset !important; box-shadow: #efefef 0 0 2px inset !important; background-color: white !important; border: 1px solid #efefef !important; border-bottom: 1px solid #cccccc !important; color: #555555 !important; font-weight: bolder !important; font-size: 12px !important; line-height: 15px !important; overflow: visible; padding: 5px 10px 5px !important; text-decoration: none !important; background-image: none !important; width: auto; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 20, ../../../sass/partials/_mixins.scss */
   .object-tools .recoverlink:hover { background: white !important; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 36, ../../../sass/partials/_mixins.scss */
   .object-tools .recoverlink.small { padding: 3px 8px 4px !important; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 39, ../../../sass/partials/_mixins.scss */
   .object-tools .recoverlink:hover, .object-tools .recoverlink:active, .object-tools .recoverlink.select, .object-tools .recoverlink:visited { background: white; color: #555555; text-decoration: none; }
-  /* line 44, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 44, ../../../sass/partials/_mixins.scss */
   .object-tools .recoverlink.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 159, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 159, ../../../sass/partials/_content.scss */
   .object-tools .publishlink { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #efefef)) !important; background-image: -webkit-linear-gradient(#ffffff, #efefef) !important; background-image: -moz-linear-gradient(#ffffff, #efefef) !important; background-image: -o-linear-gradient(#ffffff, #efefef) !important; background-image: linear-gradient(#ffffff, #efefef) !important; -moz-box-shadow: #efefef 0 0 2px inset !important; -webkit-box-shadow: #efefef 0 0 2px inset !important; -o-box-shadow: #efefef 0 0 2px inset !important; box-shadow: #efefef 0 0 2px inset !important; background-color: white !important; border: 1px solid #efefef !important; border-bottom: 1px solid #cccccc !important; color: #555555 !important; font-weight: bolder !important; font-size: 12px !important; line-height: 15px !important; overflow: visible; padding: 5px 10px 5px !important; text-decoration: none !important; background-image: none !important; width: auto; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 20, ../../../sass/partials/_mixins.scss */
   .object-tools .publishlink:hover { background: white !important; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 36, ../../../sass/partials/_mixins.scss */
   .object-tools .publishlink.small { padding: 3px 8px 4px !important; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 39, ../../../sass/partials/_mixins.scss */
   .object-tools .publishlink:hover, .object-tools .publishlink:active, .object-tools .publishlink.select, .object-tools .publishlink:visited { background: white; color: #555555; text-decoration: none; }
-  /* line 44, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 44, ../../../sass/partials/_mixins.scss */
   .object-tools .publishlink.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 160, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 160, ../../../sass/partials/_content.scss */
   .object-tools .previewdraftlink { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #efefef)) !important; background-image: -webkit-linear-gradient(#ffffff, #efefef) !important; background-image: -moz-linear-gradient(#ffffff, #efefef) !important; background-image: -o-linear-gradient(#ffffff, #efefef) !important; background-image: linear-gradient(#ffffff, #efefef) !important; -moz-box-shadow: #efefef 0 0 2px inset !important; -webkit-box-shadow: #efefef 0 0 2px inset !important; -o-box-shadow: #efefef 0 0 2px inset !important; box-shadow: #efefef 0 0 2px inset !important; background-color: white !important; border: 1px solid #efefef !important; border-bottom: 1px solid #cccccc !important; color: #555555 !important; font-weight: bolder !important; font-size: 12px !important; line-height: 15px !important; overflow: visible; padding: 5px 10px 5px !important; text-decoration: none !important; background-image: none !important; width: auto; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 20, ../../../sass/partials/_mixins.scss */
   .object-tools .previewdraftlink:hover { background: white !important; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 36, ../../../sass/partials/_mixins.scss */
   .object-tools .previewdraftlink.small { padding: 3px 8px 4px !important; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 39, ../../../sass/partials/_mixins.scss */
   .object-tools .previewdraftlink:hover, .object-tools .previewdraftlink:active, .object-tools .previewdraftlink.select, .object-tools .previewdraftlink:visited { background: white; color: #555555; text-decoration: none; }
-  /* line 44, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 44, ../../../sass/partials/_mixins.scss */
   .object-tools .previewdraftlink.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 161, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 161, ../../../sass/partials/_content.scss */
   .object-tools .revertlink { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #efefef)) !important; background-image: -webkit-linear-gradient(#ffffff, #efefef) !important; background-image: -moz-linear-gradient(#ffffff, #efefef) !important; background-image: -o-linear-gradient(#ffffff, #efefef) !important; background-image: linear-gradient(#ffffff, #efefef) !important; -moz-box-shadow: #efefef 0 0 2px inset !important; -webkit-box-shadow: #efefef 0 0 2px inset !important; -o-box-shadow: #efefef 0 0 2px inset !important; box-shadow: #efefef 0 0 2px inset !important; background-color: white !important; border: 1px solid #efefef !important; border-bottom: 1px solid #cccccc !important; color: #555555 !important; font-weight: bolder !important; font-size: 12px !important; line-height: 15px !important; overflow: visible; padding: 5px 10px 5px !important; text-decoration: none !important; background-image: none !important; width: auto; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 20, ../../../sass/partials/_mixins.scss */
   .object-tools .revertlink:hover { background: white !important; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 36, ../../../sass/partials/_mixins.scss */
   .object-tools .revertlink.small { padding: 3px 8px 4px !important; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 39, ../../../sass/partials/_mixins.scss */
   .object-tools .revertlink:hover, .object-tools .revertlink:active, .object-tools .revertlink.select, .object-tools .revertlink:visited { background: white; color: #555555; text-decoration: none; }
-  /* line 44, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 44, ../../../sass/partials/_mixins.scss */
   .object-tools .revertlink.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 162, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 162, ../../../sass/partials/_content.scss */
   .object-tools .historylink { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #efefef)) !important; background-image: -webkit-linear-gradient(#ffffff, #efefef) !important; background-image: -moz-linear-gradient(#ffffff, #efefef) !important; background-image: -o-linear-gradient(#ffffff, #efefef) !important; background-image: linear-gradient(#ffffff, #efefef) !important; -moz-box-shadow: #efefef 0 0 2px inset !important; -webkit-box-shadow: #efefef 0 0 2px inset !important; -o-box-shadow: #efefef 0 0 2px inset !important; box-shadow: #efefef 0 0 2px inset !important; background-color: white !important; border: 1px solid #efefef !important; border-bottom: 1px solid #cccccc !important; color: #555555 !important; font-weight: bolder !important; font-size: 12px !important; line-height: 15px !important; overflow: visible; padding: 5px 10px 5px !important; text-decoration: none !important; background-image: none !important; width: auto; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 20, ../../../sass/partials/_mixins.scss */
   .object-tools .historylink:hover { background: white !important; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 36, ../../../sass/partials/_mixins.scss */
   .object-tools .historylink.small { padding: 3px 8px 4px !important; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 39, ../../../sass/partials/_mixins.scss */
   .object-tools .historylink:hover, .object-tools .historylink:active, .object-tools .historylink.select, .object-tools .historylink:visited { background: white; color: #555555; text-decoration: none; }
-  /* line 44, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 44, ../../../sass/partials/_mixins.scss */
   .object-tools .historylink.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 163, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 163, ../../../sass/partials/_content.scss */
   .object-tools .viewsitelink { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #efefef)) !important; background-image: -webkit-linear-gradient(#ffffff, #efefef) !important; background-image: -moz-linear-gradient(#ffffff, #efefef) !important; background-image: -o-linear-gradient(#ffffff, #efefef) !important; background-image: linear-gradient(#ffffff, #efefef) !important; -moz-box-shadow: #efefef 0 0 2px inset !important; -webkit-box-shadow: #efefef 0 0 2px inset !important; -o-box-shadow: #efefef 0 0 2px inset !important; box-shadow: #efefef 0 0 2px inset !important; background-color: white !important; border: 1px solid #efefef !important; border-bottom: 1px solid #cccccc !important; color: #555555 !important; font-weight: bolder !important; font-size: 12px !important; line-height: 15px !important; overflow: visible; padding: 5px 10px 5px !important; text-decoration: none !important; background-image: none !important; width: auto; -moz-box-shadow: #5bbdee 0 0 2px inset !important; -webkit-box-shadow: #5bbdee 0 0 2px inset !important; -o-box-shadow: #5bbdee 0 0 2px inset !important; box-shadow: #5bbdee 0 0 2px inset !important; background-color: #029eee !important; background-image: none !important; border: 1px solid #5bbdee !important; border-bottom: 1px solid #0072ac !important; color: white !important; }
-  /* line 20, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 20, ../../../sass/partials/_mixins.scss */
   .object-tools .viewsitelink:hover { background: white !important; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 36, ../../../sass/partials/_mixins.scss */
   .object-tools .viewsitelink.small { padding: 3px 8px 4px !important; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 39, ../../../sass/partials/_mixins.scss */
   .object-tools .viewsitelink:hover, .object-tools .viewsitelink:active, .object-tools .viewsitelink.select, .object-tools .viewsitelink:visited { background: white; color: #555555; text-decoration: none; }
-  /* line 44, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 44, ../../../sass/partials/_mixins.scss */
   .object-tools .viewsitelink.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 51, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 51, ../../../sass/partials/_mixins.scss */
   .object-tools .viewsitelink, .object-tools .viewsitelink:visited { background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #5bbdee), color-stop(100%, #029eee)) !important; background-image: -webkit-linear-gradient(#5bbdee, #029eee) !important; background-image: -moz-linear-gradient(#5bbdee, #029eee) !important; background-image: -o-linear-gradient(#5bbdee, #029eee) !important; background-image: linear-gradient(#5bbdee, #029eee) !important; }
-  /* line 59, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 59, ../../../sass/partials/_mixins.scss */
   .object-tools .viewsitelink:hover, .object-tools .viewsitelink:focus { background: #5bbdee !important; color: white !important; }
-  /* line 63, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 63, ../../../sass/partials/_mixins.scss */
   .object-tools .viewsitelink:active { background: #029eee !important; }
-  /* line 66, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 66, ../../../sass/partials/_mixins.scss */
   .object-tools .viewsitelink.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 168, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 168, ../../../sass/partials/_content.scss */
   .change-list .filtered { min-height: auto; background-image: none !important; }
-  /* line 170, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 170, ../../../sass/partials/_content.scss */
   .change-list .filtered table { border: none; }
-  /* line 175, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 175, ../../../sass/partials/_content.scss */
   .change-list #changelist table tbody th, .change-list #changelist table tbody td { border-color: #f1f1f1; }
-  /* line 176, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 176, ../../../sass/partials/_content.scss */
   .change-list #changelist table tbody th a, .change-list #changelist table tbody th a:link, .change-list #changelist table tbody th a:visited, .change-list #changelist table tbody th a:link:visited, .change-list #changelist table tbody td a, .change-list #changelist table tbody td a:link, .change-list #changelist table tbody td a:visited, .change-list #changelist table tbody td a:link:visited { color: #029eee; }
-  /* line 179, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 179, ../../../sass/partials/_content.scss */
   .change-list #changelist table tbody tr.selected { background: #f6fcff !important; }
-  /* line 182, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 182, ../../../sass/partials/_content.scss */
   .change-list #changelist #toolbar { background: none !important; border: 0 !important; margin: 0 0 5px 0; min-height: 30px; height: auto; }
-  /* line 184, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 184, ../../../sass/partials/_content.scss */
   .change-list #changelist #toolbar form label { min-width: auto; padding: 0; font-size: 100%; }
-  /* line 185, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 185, ../../../sass/partials/_content.scss */
   .change-list #changelist #toolbar form #searchbar { padding: 6px 5px 8px 5px !important; font-size: 100%; }
-  /* line 187, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 187, ../../../sass/partials/_content.scss */
   .change-list #changelist #changelist-filter { min-height: 100%; background: #fafafa; -moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; -o-border-top-right-radius: 3px; -ms-border-top-right-radius: 3px; -khtml-border-top-right-radius: 3px; border-top-right-radius: 3px; -moz-border-radius-bottomright: 3px; -webkit-border-bottom-right-radius: 3px; -o-border-bottom-right-radius: 3px; -ms-border-bottom-right-radius: 3px; -khtml-border-bottom-right-radius: 3px; border-bottom-right-radius: 3px; }
-  /* line 189, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 189, ../../../sass/partials/_content.scss */
   .change-list #changelist #changelist-filter h2 { background: none; color: #888888; padding: 2px 9px; }
-  /* line 190, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 190, ../../../sass/partials/_content.scss */
   .change-list #changelist #changelist-filter h3 { margin: 5px 0; }
-  /* line 191, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 191, ../../../sass/partials/_content.scss */
   .change-list #changelist #changelist-filter ul { font-size: 12px; margin-bottom: 10px; }
-  /* line 193, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 193, ../../../sass/partials/_content.scss */
   .change-list #changelist #changelist-filter ul li { margin-bottom: 2px; }
-  /* line 194, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 194, ../../../sass/partials/_content.scss */
   .change-list #changelist #changelist-filter ul li.selected a { color: #029eee !important; }
-  /* line 197, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 197, ../../../sass/partials/_content.scss */
   .change-list #changelist .actions { background: none; border: none; padding: 0px 3px 10px 3px; }
-  /* line 199, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 199, ../../../sass/partials/_content.scss */
   .change-list #changelist .actions button { height: 20px; vertical-align: middle; padding-top: 2px !important; }
-  /* line 201, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 201, ../../../sass/partials/_content.scss */
   .change-list #changelist .toplinks { border-bottom: none !important; background: none; margin-bottom: 5px !important; }
-  /* line 202, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 202, ../../../sass/partials/_content.scss */
   .change-list #changelist .paginator { border: none; background: none; }
-  /* line 210, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 210, ../../../sass/partials/_content.scss */
   .delete-confirmation .colM { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; -moz-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); -webkit-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); -o-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); padding: 0; background: white; border: none; margin-bottom: 5px; padding: 20px; margin: 15px !important; }
-  /* line 6, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 6, ../../../sass/partials/_mixins.scss */
   .delete-confirmation .colM h2, .delete-confirmation .colM h3, .delete-confirmation .colM h4, .delete-confirmation .colM h5, .delete-confirmation .colM h6 { margin-bottom: 12px; margin-top: 0; }
-  /* line 212, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 212, ../../../sass/partials/_content.scss */
   .delete-confirmation .colM h1 { margin: 0 0 10px 0; }
-  /* line 213, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 213, ../../../sass/partials/_content.scss */
   .delete-confirmation .colM li { line-height: 16px; }
-  /* line 214, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 214, ../../../sass/partials/_content.scss */
   .delete-confirmation .colM input[type="submit"] { background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ef4a4a), color-stop(100%, #e80101)) !important; background-image: -webkit-linear-gradient(#ef4a4a, #e80101) !important; background-image: -moz-linear-gradient(#ef4a4a, #e80101) !important; background-image: -o-linear-gradient(#ef4a4a, #e80101) !important; background-image: linear-gradient(#ef4a4a, #e80101) !important; -moz-box-shadow: #ef4a4a 0 0 2px inset !important; -webkit-box-shadow: #ef4a4a 0 0 2px inset !important; -o-box-shadow: #ef4a4a 0 0 2px inset !important; box-shadow: #ef4a4a 0 0 2px inset !important; background-color: #e80101 !important; border: 1px solid #ef4a4a !important; border-bottom: 1px solid #d50101 !important; color: white !important; float: right; }
-  /* line 120, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 120, ../../../sass/partials/_mixins.scss */
   .delete-confirmation .colM input[type="submit"]:hover { background: #ef4a4a !important; color: white !important; }
-  /* line 124, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 124, ../../../sass/partials/_mixins.scss */
   .delete-confirmation .colM input[type="submit"]:active { background: #e80101 !important; }
-  /* line 127, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 127, ../../../sass/partials/_mixins.scss */
   .delete-confirmation .colM input[type="submit"].animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 218, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 218, ../../../sass/partials/_content.scss */
   #sitemap li a.addlink, #sitemap li a.deletelink { width: 11px; height: 11px; }
-  /* line 220, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 220, ../../../sass/partials/_content.scss */
   .tree .col1 .changelink { float: left; line-height: 16px !important; margin: 6px 0 0 15px !important; }
-  /* line 224, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 224, ../../../sass/partials/_content.scss */
   #page_form_lang_tabs input { -moz-border-radius-bottomleft: 0; -webkit-border-bottom-left-radius: 0; -o-border-bottom-left-radius: 0; -ms-border-bottom-left-radius: 0; -khtml-border-bottom-left-radius: 0; border-bottom-left-radius: 0; -moz-border-radius-bottomright: 0; -webkit-border-bottom-right-radius: 0; -o-border-bottom-right-radius: 0; -ms-border-bottom-right-radius: 0; -khtml-border-bottom-right-radius: 0; border-bottom-right-radius: 0; -moz-box-shadow: none !important; -webkit-box-shadow: none !important; -o-box-shadow: none !important; box-shadow: none !important; background: white !important; color: #666666 !important; font-weight: normal !important; border: none !important; margin: 0; }
-  /* line 228, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 228, ../../../sass/partials/_content.scss */
   #page_form_lang_tabs input:hover, #page_form_lang_tabs input:focus { color: black !important; }
-  /* line 229, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 229, ../../../sass/partials/_content.scss */
   #page_form_lang_tabs input.selected { background: #5bbdee !important; color: white !important; text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); }
-  /* line 231, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 231, ../../../sass/partials/_content.scss */
   #page_form_lang_tabs input.notfilled { background: #f1f1f1 !important; color: #888888 !important; }
-  /* line 233, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 233, ../../../sass/partials/_content.scss */
   #lang_tab_content h2.header { background: #5bbdee !important; -moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; -o-border-top-right-radius: 3px; -ms-border-top-right-radius: 3px; -khtml-border-top-right-radius: 3px; border-top-right-radius: 3px; margin-bottom: -3px !important; position: relative; }
-  /* line 237, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 237, ../../../sass/partials/_content.scss */
   .nani-language-tabs { border-bottom: 5px solid #5bbdee; margin-bottom: -3px; position: relative; }
-  /* line 239, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 239, ../../../sass/partials/_content.scss */
   .nani-language-tabs > span { display: -moz-inline-box; -moz-box-orient: vertical; display: inline-block; vertical-align: middle; *vertical-align: auto; border: none !important; top: 0 !important; color: #666666 !important; font-weight: normal !important; vertical-align: top; background: white; padding: 8px 10px !important; margin: 0 !important; -moz-border-radius-topleft: 3px; -webkit-border-top-left-radius: 3px; -o-border-top-left-radius: 3px; -ms-border-top-left-radius: 3px; -khtml-border-top-left-radius: 3px; border-top-left-radius: 3px; -moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; -o-border-top-right-radius: 3px; -ms-border-top-right-radius: 3px; -khtml-border-top-right-radius: 3px; border-top-right-radius: 3px; }
-  /* line 7, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/compass/css3/_inline-block.scss */
+  /* line 7, ../../../sass/compass/css3/_inline-block.scss */
   .nani-language-tabs > span { *display: inline; }
-  /* line 243, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 243, ../../../sass/partials/_content.scss */
   .nani-language-tabs > span a { color: #666666 !important; padding: 5px 10px; }
-  /* line 245, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 245, ../../../sass/partials/_content.scss */
   .nani-language-tabs > span a:hover, .nani-language-tabs > span a:focus { color: black !important; text-decoration: none; }
-  /* line 247, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 247, ../../../sass/partials/_content.scss */
   .nani-language-tabs > span .deletelink { display: inline; padding: 0 0 0 12px !important; margin: 0; -moz-border-radius-topleft: 0; -webkit-border-top-left-radius: 0; -o-border-top-left-radius: 0; -ms-border-top-left-radius: 0; -khtml-border-top-left-radius: 0; border-top-left-radius: 0; -moz-border-radius-topright: 0; -webkit-border-top-right-radius: 0; -o-border-top-right-radius: 0; -ms-border-top-right-radius: 0; -khtml-border-top-right-radius: 0; border-top-right-radius: 0; background: url("../img/icon_deletelink.png") 0 0.25em no-repeat !important; bottom: 0px !important; right: -3px !important; }
-  /* line 251, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 251, ../../../sass/partials/_content.scss */
   .nani-language-tabs > .empty { opacity: 1 !important; background: #f1f1f1; color: #888888; }
-  /* line 252, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 252, ../../../sass/partials/_content.scss */
   .nani-language-tabs > .current { background: #5bbdee; color: white !important; padding-left: 20px !important; padding-right: 20px !important; text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); }
-  /* line 254, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 254, ../../../sass/partials/_content.scss */
   .nani-language-tabs > .current .deletelink { right: -12px !important; }
-  /* line 256, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 256, ../../../sass/partials/_content.scss */
   .inline-group .nani-language-tabs { margin-bottom: 0; }
-  /* line 258, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 258, ../../../sass/partials/_content.scss */
   .inline-group .nani-language-tabs > span { padding: 4px 10px !important; }
-  /* line 259, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 259, ../../../sass/partials/_content.scss */
   .inline-group .nani-language-tabs > .current { padding-left: 20px !important; padding-right: 20px !important; }
-  /* line 260, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_content.scss */
+  /* line 260, ../../../sass/partials/_content.scss */
   .inline-group .nani-language-tabs > .available { background: #eee; }
-  /* line 2, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_icons.scss */
+  /* line 2, ../../../sass/partials/_icons.scss */
   .addlink, .changelink, .deletelink { padding-left: 15px; }
-  /* line 4, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_icons.scss */
+  /* line 4, ../../../sass/partials/_icons.scss */
   .deletelink { background-image: url("../img/icon_deletelink.png"); }
-  /* line 6, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_icons.scss */
+  /* line 6, ../../../sass/partials/_icons.scss */
   .related-lookup, .add-another { margin: 0 5px; }
-  /* line 8, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_icons.scss */
+  /* line 8, ../../../sass/partials/_icons.scss */
   .related-lookup:hover, .related-lookup:focus, .related-lookup:active, .add-another:hover, .add-another:focus, .add-another:active { text-decoration: none !important; }
-  /* line 10, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_icons.scss */
+  /* line 10, ../../../sass/partials/_icons.scss */
   .add-another { text-indent: -119988px; overflow: hidden; text-align: left; display: -moz-inline-box; -moz-box-orient: vertical; display: inline-block; vertical-align: middle; *vertical-align: auto; width: 14px; height: 14px; background: url("../img/icon_addlink_large.gif") 0 0 no-repeat; }
-  /* line 7, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/compass/css3/_inline-block.scss */
+  /* line 7, ../../../sass/compass/css3/_inline-block.scss */
   .add-another { *display: inline; }
-  /* line 13, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_icons.scss */
+  /* line 13, ../../../sass/partials/_icons.scss */
   .tree .changelink { background-image: url("../img/icon_changelink_white.png"); }
-  /* line 15, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_icons.scss */
+  /* line 15, ../../../sass/partials/_icons.scss */
   #sitemap li .col-softroot span.icon { background: url("../img/icon_softroot.png") 0 0 no-repeat; width: 15px; height: 15px; margin: 7px 5px 0 0; }
-  /* line 2, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_shortcuts.scss */
+  /* line 2, ../../../sass/partials/_shortcuts.scss */
   .admin_shortcuts .shortcuts { -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none; box-shadow: none; background: #595f65; border-top: 1px solid #444444; color: #cccccc; }
-  /* line 5, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_shortcuts.scss */
+  /* line 5, ../../../sass/partials/_shortcuts.scss */
   .admin_shortcuts .shortcuts h2 { border: none; font-weight: normal; }
-  /* line 7, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_shortcuts.scss */
+  /* line 7, ../../../sass/partials/_shortcuts.scss */
   .admin_shortcuts .shortcuts li a, .admin_shortcuts .shortcuts li a:link, .admin_shortcuts .shortcuts li a:visited { background-color: #464b50; border: 1px solid #444444; text-decoration: none; }
-  /* line 9, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_shortcuts.scss */
+  /* line 9, ../../../sass/partials/_shortcuts.scss */
   .admin_shortcuts .shortcuts li a .count, .admin_shortcuts .shortcuts li a:link .count, .admin_shortcuts .shortcuts li a:visited .count { color: #888888; }
-  /* line 10, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_shortcuts.scss */
+  /* line 10, ../../../sass/partials/_shortcuts.scss */
   .admin_shortcuts .shortcuts li a .count_new, .admin_shortcuts .shortcuts li a:link .count_new, .admin_shortcuts .shortcuts li a:visited .count_new { background: #029eee; border-color: #5bbdee; }
-  /* line 12, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_shortcuts.scss */
+  /* line 12, ../../../sass/partials/_shortcuts.scss */
   .admin_shortcuts .shortcuts li a:hover, .admin_shortcuts .shortcuts li a:focus { background-color: #4e5359; }
-  /* line 13, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_shortcuts.scss */
+  /* line 13, ../../../sass/partials/_shortcuts.scss */
   .admin_shortcuts .shortcuts li a:active { background-color: #464b50; }
-  /* line 5, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 5, ../../../sass/partials/_feincms.scss */
   #main_wrapper .navi_tab { -moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; -o-border-top-right-radius: 3px; -ms-border-top-right-radius: 3px; -khtml-border-top-right-radius: 3px; border-top-right-radius: 3px; -moz-border-radius-topleft: 3px; -webkit-border-top-left-radius: 3px; -o-border-top-left-radius: 3px; -ms-border-top-left-radius: 3px; -khtml-border-top-left-radius: 3px; border-top-left-radius: 3px; border: none; border-right: 1px solid #ccc; background-image: none; background-color: white; color: #555555; margin-top: 5px; }
-  /* line 16, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 16, ../../../sass/partials/_feincms.scss */
   #main_wrapper .navi_tab.tab_active { background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #5bbdee), color-stop(100%, #029eee)) !important; background-image: -webkit-linear-gradient(#5bbdee, #029eee) !important; background-image: -moz-linear-gradient(#5bbdee, #029eee) !important; background-image: -o-linear-gradient(#5bbdee, #029eee) !important; background-image: linear-gradient(#5bbdee, #029eee) !important; border: 1px solid #5bbdee !important; background-color: #029eee; color: white; margin-top: 0; }
-  /* line 25, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 25, ../../../sass/partials/_feincms.scss */
   #main_wrapper #main { -moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; -o-border-top-right-radius: 3px; -ms-border-top-right-radius: 3px; -khtml-border-top-right-radius: 3px; border-top-right-radius: 3px; }
-  /* line 30, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 30, ../../../sass/partials/_feincms.scss */
   #main_wrapper .module { padding: 0; box-shadow: none; -webkit-box-shadow: none; }
-  /* line 35, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 35, ../../../sass/partials/_feincms.scss */
   #main_wrapper .module h2 { -moz-border-radius-topright: 3px; -webkit-border-top-right-radius: 3px; -o-border-top-right-radius: 3px; -ms-border-top-right-radius: 3px; -khtml-border-top-right-radius: 3px; border-top-right-radius: 3px; -moz-border-radius-topleft: 3px; -webkit-border-top-left-radius: 3px; -o-border-top-left-radius: 3px; -ms-border-top-left-radius: 3px; -khtml-border-top-left-radius: 3px; border-top-left-radius: 3px; background-image: none; border-bottom: 1px solid #dddddd; color: #444444; font-size: 100%; margin-bottom: 2px; margin-top: 0; padding: 10px; background-color: #fff; }
-  /* line 49, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 49, ../../../sass/partials/_feincms.scss */
   #main_wrapper .module span.modname { font-size: 16px; margin-left: 14px; }
-  /* line 53, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 53, ../../../sass/partials/_feincms.scss */
   #main_wrapper .module span.collapse { color: #444444; }
-  /* line 56, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 56, ../../../sass/partials/_feincms.scss */
   #main_wrapper .module .item-delete { content: ''; width: 11px; height: 11px; margin: 7px 9px 0 0; background-image: url("../img/icon_deletelink.png"); }
-  /* line 63, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 63, ../../../sass/partials/_feincms.scss */
   #main_wrapper .module span.handle { height: 14px; width: 9px; margin: 13px 7px; background-image: url("../img/icon_menu_gray.png"); }
-  /* line 69, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 69, ../../../sass/partials/_feincms.scss */
   #main_wrapper .module .item-controls { height: 40px; border-top: 1px solid #ddd; background: url("../img/icon_cogs.png") no-repeat 16px center; }
-  /* line 74, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 74, ../../../sass/partials/_feincms.scss */
   #main_wrapper .module .item-control-units { margin-left: 15px; }
-  /* line 77, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
-  #main_wrapper .module .item-control-units input[type="button"] { background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #7a7a7a), color-stop(100%, #6a6f74)); background-image: -webkit-linear-gradient(#7a7a7a, #6a6f74); background-image: -moz-linear-gradient(#7a7a7a, #6a6f74); background-image: -o-linear-gradient(#7a7a7a, #6a6f74); background-image: linear-gradient(#7a7a7a, #6a6f74); -moz-box-shadow: #7a7a7a 0 0 2px inset; -webkit-box-shadow: #7a7a7a 0 0 2px inset; -o-box-shadow: #7a7a7a 0 0 2px inset; box-shadow: #7a7a7a 0 0 2px inset; background-color: #6a6f74 !important; border: 1px solid #7a7a7a; border-bottom: 1px solid #333333; color: white !important; padding: 4px 8px 4px !important; }
-  /* line 165, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
-  #main_wrapper .module .item-control-units input[type="button"]:hover { background: #7a7a7a !important; color: white; }
-  /* line 170, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 77, ../../../sass/partials/_feincms.scss */
+  #main_wrapper .module .item-control-units input[type="button"] { background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #999999), color-stop(100%, #6a6f74)) !important; background-image: -webkit-linear-gradient(#999999, #6a6f74) !important; background-image: -moz-linear-gradient(#999999, #6a6f74) !important; background-image: -o-linear-gradient(#999999, #6a6f74) !important; background-image: linear-gradient(#999999, #6a6f74) !important; -moz-box-shadow: #999999 0 0 2px inset !important; -webkit-box-shadow: #999999 0 0 2px inset !important; -o-box-shadow: #999999 0 0 2px inset !important; box-shadow: #999999 0 0 2px inset !important; background-color: #6a6f74 !important; border: 1px solid #999999 !important; border-bottom: 1px solid #333333 !important; color: white !important; padding: 4px 8px 4px !important; }
+  /* line 165, ../../../sass/partials/_mixins.scss */
+  #main_wrapper .module .item-control-units input[type="button"]:hover { background: #999999 !important; color: white; }
+  /* line 170, ../../../sass/partials/_mixins.scss */
   #main_wrapper .module .item-control-units input[type="button"]:active, #main_wrapper .module .item-control-units input[type="button"].select { background: #6a6f74 !important; color: white; }
-  /* line 174, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 174, ../../../sass/partials/_mixins.scss */
   #main_wrapper .module .item-control-units input[type="button"].animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 86, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 85, ../../../sass/partials/_feincms.scss */
   #main_wrapper .highlight { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; background-image: none; opacity: 1; background-color: #e0e0e0; border: 1px dashed #5e5e5e; }
-  /* line 93, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 92, ../../../sass/partials/_feincms.scss */
   #main_wrapper .helper h2 { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; padding: 5px 10px; border: 1px solid #afafaf; }
-  /* line 100, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 99, ../../../sass/partials/_feincms.scss */
   #main_wrapper .machine-control { -moz-border-radius-bottomleft: 3px; -webkit-border-bottom-left-radius: 3px; -o-border-bottom-left-radius: 3px; -ms-border-bottom-left-radius: 3px; -khtml-border-bottom-left-radius: 3px; border-bottom-left-radius: 3px; -moz-border-radius-bottomright: 3px; -webkit-border-bottom-right-radius: 3px; -o-border-bottom-right-radius: 3px; -ms-border-bottom-right-radius: 3px; -khtml-border-bottom-right-radius: 3px; border-bottom-right-radius: 3px; background-color: #fff; }
-  /* line 106, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 105, ../../../sass/partials/_feincms.scss */
   #main_wrapper .machine-control .control-unit input[type="button"] { -moz-box-shadow: #5bbdee 0 0 2px inset !important; -webkit-box-shadow: #5bbdee 0 0 2px inset !important; -o-box-shadow: #5bbdee 0 0 2px inset !important; box-shadow: #5bbdee 0 0 2px inset !important; background-color: #029eee !important; background-image: none !important; border: 1px solid #5bbdee !important; border-bottom: 1px solid #0072ac !important; color: white !important; padding: 4px 8px 4px !important; }
-  /* line 51, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 51, ../../../sass/partials/_mixins.scss */
   #main_wrapper .machine-control .control-unit input[type="button"], #main_wrapper .machine-control .control-unit input[type="button"]:visited { background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #5bbdee), color-stop(100%, #029eee)) !important; background-image: -webkit-linear-gradient(#5bbdee, #029eee) !important; background-image: -moz-linear-gradient(#5bbdee, #029eee) !important; background-image: -o-linear-gradient(#5bbdee, #029eee) !important; background-image: linear-gradient(#5bbdee, #029eee) !important; }
-  /* line 59, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 59, ../../../sass/partials/_mixins.scss */
   #main_wrapper .machine-control .control-unit input[type="button"]:hover, #main_wrapper .machine-control .control-unit input[type="button"]:focus { background: #5bbdee !important; color: white !important; }
-  /* line 63, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 63, ../../../sass/partials/_mixins.scss */
   #main_wrapper .machine-control .control-unit input[type="button"]:active { background: #029eee !important; }
-  /* line 66, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 66, ../../../sass/partials/_mixins.scss */
   #main_wrapper .machine-control .control-unit input[type="button"].animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
-  /* line 114, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 113, ../../../sass/partials/_feincms.scss */
   #popup_container { -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius: 3px; }
-  /* line 117, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 116, ../../../sass/partials/_feincms.scss */
   #popup_container #popup_title { color: white; background-image: none; border: none; border-bottom: none; cursor: default; padding: 7px 0; margin: 0em; background-color: #464B50; }
-  /* line 128, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 127, ../../../sass/partials/_feincms.scss */
   #popup_container #popup_content { background-image: url("../img/notification.png"); }
-  /* line 130, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 129, ../../../sass/partials/_feincms.scss */
   #popup_container #popup_content.confirm { background-image: url("../img/warning.png"); }
-  /* line 134, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_feincms.scss */
+  /* line 133, ../../../sass/partials/_feincms.scss */
   #popup_container #popup_content #popup_ok { -moz-box-shadow: #5bbdee 0 0 2px inset !important; -webkit-box-shadow: #5bbdee 0 0 2px inset !important; -o-box-shadow: #5bbdee 0 0 2px inset !important; box-shadow: #5bbdee 0 0 2px inset !important; background-color: #029eee !important; background-image: none !important; border: 1px solid #5bbdee !important; border-bottom: 1px solid #0072ac !important; color: white !important; }
-  /* line 51, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 51, ../../../sass/partials/_mixins.scss */
   #popup_container #popup_content #popup_ok, #popup_container #popup_content #popup_ok:visited { background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #5bbdee), color-stop(100%, #029eee)) !important; background-image: -webkit-linear-gradient(#5bbdee, #029eee) !important; background-image: -moz-linear-gradient(#5bbdee, #029eee) !important; background-image: -o-linear-gradient(#5bbdee, #029eee) !important; background-image: linear-gradient(#5bbdee, #029eee) !important; }
-  /* line 59, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 59, ../../../sass/partials/_mixins.scss */
   #popup_container #popup_content #popup_ok:hover, #popup_container #popup_content #popup_ok:focus { background: #5bbdee !important; color: white !important; }
-  /* line 63, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 63, ../../../sass/partials/_mixins.scss */
   #popup_container #popup_content #popup_ok:active { background: #029eee !important; }
-  /* line 66, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mixins.scss */
+  /* line 66, ../../../sass/partials/_mixins.scss */
   #popup_container #popup_content #popup_ok.animate { -moz-background-size: 100% 400%; -webkit-background-size: 100% 400%; -o-background-size: 100% 400%; background-size: 100% 400%; background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, rgba(255, 255, 255, 0) 75%, rgba(255, 255, 255, 0)); }
   /*#main_wrapper .order-machine fieldset.module > h2 { @include border-top-right-radius(); @include border-top-left-radius(); color: $font-color-white; background-image: none; background-color: $background-color-dark; padding: 0 5px 0 17px; font-weight: normal; }*/
   /*#main_wrapper .order-item .collapse { color: $font-color-white; }*/ }
-@media only screen and (max-width: 420px), print { /* line 4, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+@media only screen and (max-width: 420px), print { /* line 4, ../../../sass/partials/_mobile.scss */
   html, body { height: auto; }
-  /* line 5, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 5, ../../../sass/partials/_mobile.scss */
   #content { margin: 0 5px; }
-  /* line 6, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 6, ../../../sass/partials/_mobile.scss */
   #container { margin: 0; min-width: 240px !important; }
-  /* line 7, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 7, ../../../sass/partials/_mobile.scss */
   #branding { display: none; }
-  /* line 8, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 8, ../../../sass/partials/_mobile.scss */
   .login #branding { display: block; }
-  /* line 9, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 9, ../../../sass/partials/_mobile.scss */
   #user-tools { position: relative; text-align: center; }
-  /* line 12, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 12, ../../../sass/partials/_mobile.scss */
   .module { border: none; box-shadow: none; padding: 5px 0 5px 0 !important; -moz-box-shadow: none !important; -webkit-box-shadow: none !important; -o-box-shadow: none !important; box-shadow: none !important; }
-  /* line 15, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 15, ../../../sass/partials/_mobile.scss */
   .module caption { margin-bottom: 5px; margin-left: 5px; }
-  /* line 17, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 17, ../../../sass/partials/_mobile.scss */
   div.breadcrumbs { padding-left: 5px; }
-  /* line 18, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 18, ../../../sass/partials/_mobile.scss */
   .plugin-holder { display: none !important; }
-  /* line 22, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 22, ../../../sass/partials/_mobile.scss */
   body.login #container { width: auto !important; max-width: 320px; }
-  /* line 25, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 25, ../../../sass/partials/_mobile.scss */
   body.login #container #content #content-main .form-row, body.login #container #content #content-main .submit-row { text-align: center; }
-  /* line 26, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 26, ../../../sass/partials/_mobile.scss */
   body.login #container #content #content-main .form-row input { width: auto !important; max-width: none; min-width: 40px; }
-  /* line 27, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 27, ../../../sass/partials/_mobile.scss */
   body.login #container #content #content-main .submit-row input, body.login #container #content #content-main .submit-row input[type="submit"] { width: 80% !important; }
-  /* line 33, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 33, ../../../sass/partials/_mobile.scss */
   .colMS { margin-right: 10px !important; }
-  /* line 36, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 36, ../../../sass/partials/_mobile.scss */
   .dashboard #container #content h1 { display: none; }
-  /* line 37, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 37, ../../../sass/partials/_mobile.scss */
   .dashboard #container #content-main { min-width: 0; max-width: none; float: none; }
-  /* line 39, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 39, ../../../sass/partials/_mobile.scss */
   .dashboard #container #content-main .addlink, .dashboard #container #content-main .changelink { text-indent: -9999px; overflow: hidden; }
-  /* line 41, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 41, ../../../sass/partials/_mobile.scss */
   .dashboard #container #content-related { width: auto; float: none; margin-right: 0; }
-  /* line 42, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 42, ../../../sass/partials/_mobile.scss */
   .dashboard #container #content-related .module { padding: 10px !important; margin: 10px 0; }
-  /* line 44, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 44, ../../../sass/partials/_mobile.scss */
   .dashboard #container #content-related .module .actionlist { margin-left: 10px; }
-  /* line 47, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 47, ../../../sass/partials/_mobile.scss */
   .dashboard .module { background: none !important; }
-  /* line 53, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 53, ../../../sass/partials/_mobile.scss */
   .change-list #content { margin-top: 38px; }
-  /* line 55, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 55, ../../../sass/partials/_mobile.scss */
   .change-list #content > h1 { display: none; }
-  /* line 56, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 56, ../../../sass/partials/_mobile.scss */
   .change-list #content .object-tools { margin: -33px 0 0 0; }
-  /* line 60, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 60, ../../../sass/partials/_mobile.scss */
   .change-list #toolbar label { display: inline-block; }
-  /* line 61, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 61, ../../../sass/partials/_mobile.scss */
   .change-list #toolbar form #searchbar { width: 120px; }
-  /* line 62, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 62, ../../../sass/partials/_mobile.scss */
   .change-list #toolbar .small { display: block; }
-  /* line 64, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 64, ../../../sass/partials/_mobile.scss */
   .change-list .filtered .results, .change-list .change-list .filtered .paginator, .change-list .filtered #toolbar, .change-list .filtered div.xfull { margin-right: 0 !important; }
-  /* line 66, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 66, ../../../sass/partials/_mobile.scss */
   .change-list .module #changelist-form .results { width: 100%; overflow: auto; }
-  /* line 68, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 68, ../../../sass/partials/_mobile.scss */
   .change-list .filtered .actions, .change-list .filtered .paginator { margin-right: 0 !important; }
-  /* line 71, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 71, ../../../sass/partials/_mobile.scss */
   #changelist-filter-button, #changelist-filter { display: none !important; }
-  /* line 72, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 72, ../../../sass/partials/_mobile.scss */
   .tree { background: white; }
-  /* line 77, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 77, ../../../sass/partials/_mobile.scss */
   #sitemap li .col-softroot, #sitemap li .col-language, #sitemap li .col-actions, #sitemap li .col-published, #sitemap li .col-navigation, #sitemap li .col-moderator, #sitemap li .col-lastchange, #sitemap li .col-draft, #sitemap li .col-view-perms, #sitemap li .col-creator { display: none !important; }
-  /* line 79, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 79, ../../../sass/partials/_mobile.scss */
   #sitemap li .col-softroot, #sitemap li .col-language { display: block !important; }
-  /* line 83, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 83, ../../../sass/partials/_mobile.scss */
   .change-form #content { margin-top: 45px; }
-  /* line 85, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 85, ../../../sass/partials/_mobile.scss */
   .change-form #content > h1 { display: none; }
-  /* line 87, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 87, ../../../sass/partials/_mobile.scss */
   .change-form .object-tools { margin: -35px 0 0 0; }
-  /* line 91, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 91, ../../../sass/partials/_mobile.scss */
   #page_form_lang_tabs input { font-weight: normal !important; font-size: 11px !important; padding: 2px 4px !important; }
-  /* line 94, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 94, ../../../sass/partials/_mobile.scss */
   .nani-language-tabs > span { font-size: 11px !important; padding: 4px 1px !important; }
-  /* line 96, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 96, ../../../sass/partials/_mobile.scss */
   .nani-language-tabs > span a { padding: 3px 5px !important; }
-  /* line 97, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 97, ../../../sass/partials/_mobile.scss */
   .nani-language-tabs > span .deletelink { right: 0 !important; }
-  /* line 99, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 99, ../../../sass/partials/_mobile.scss */
   .nani-language-tabs > .current { padding: 4px 10px 4px 5px !important; }
-  /* line 101, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 101, ../../../sass/partials/_mobile.scss */
   .nani-language-tabs > .current .deletelink { right: -8px !important; }
-  /* line 106, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 106, ../../../sass/partials/_mobile.scss */
   form label, .aligned label { display: block; padding: 0 !important; float: none !important; line-height: 14px; margin-top: 5px; width: auto; }
-  /* line 109, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 109, ../../../sass/partials/_mobile.scss */
   form input, form input[type="file"], form textarea, form select { width: auto; /*max-width: 200px;*/ }
-  /* line 110, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 110, ../../../sass/partials/_mobile.scss */
   form .vTextField { width: auto; }
-  /* line 111, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 111, ../../../sass/partials/_mobile.scss */
   form .aligned p, form .aligned ul { padding-left: 0 !important; margin-left: 0 !important; }
-  /* line 112, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 112, ../../../sass/partials/_mobile.scss */
   form .submit-row { text-align: left; }
-  /* line 116, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 116, ../../../sass/partials/_mobile.scss */
   .inline-group { padding: 5px; margin-bottom: 10px; }
-  /* line 119, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 119, ../../../sass/partials/_mobile.scss */
   .inline-group .module h2 { padding-left: 5px; }
-  /* line 124, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 124, ../../../sass/partials/_mobile.scss */
   .selector { width: auto; float: none; }
-  /* line 126, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 126, ../../../sass/partials/_mobile.scss */
   .selector .selector-available, .selector .selector-chosen { width: auto; float: none; }
-  /* line 128, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 128, ../../../sass/partials/_mobile.scss */
   .selector .selector-available p, .selector .selector-chosen p { text-align: center; }
-  /* line 130, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 130, ../../../sass/partials/_mobile.scss */
   .selector .selector-chosen { margin-top: 60px; }
-  /* line 131, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 131, ../../../sass/partials/_mobile.scss */
   .selector ul.selector-chooser { margin-top: 0; display: block; }
-  /* line 132, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 132, ../../../sass/partials/_mobile.scss */
   .selector select[multiple], .selector select { max-width: none; width: 100%; }
-  /* line 133, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 133, ../../../sass/partials/_mobile.scss */
   .selector label { display: inline-block; }
-  /* line 134, /Users/sanderl/Development/envs/novility/src/djangocms-admin-style/djangocms_admin_style/sass/partials/_mobile.scss */
+  /* line 134, ../../../sass/partials/_mobile.scss */
   .selector .selector-available input, .selector .selector-chosen input { width: auto; } }
