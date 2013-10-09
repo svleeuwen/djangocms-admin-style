@@ -10,6 +10,10 @@
 .add-another { @include hide-text(); @include inline-block(); width: 14px; height: 14px;
 	background: url('../img/icon_addlink_large.gif') 0 0 no-repeat; }
 
+.add-another + .changelink {
+    @include hide-text(); @include inline-block(); width: 14px; height: 14px;
+	background: url('../img/icon_changelink_large.gif') 0 0 no-repeat; }
+
 .tree .changelink { background-image: url('../img/icon_changelink_white.png'); }
 
 #sitemap li .col-softroot span.icon { background: url('../img/icon_softroot.png') 0 0 no-repeat;

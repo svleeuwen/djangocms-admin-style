@@ -690,8 +690,12 @@ nav ul, nav li { margin: 0; list-style: none; list-style-image: none; }
   /* line 7, ../../../sass/compass/css3/_inline-block.scss */
   .add-another { *display: inline; }
   /* line 13, ../../../sass/partials/_icons.scss */
+  .add-another + .changelink { text-indent: -119988px; overflow: hidden; text-align: left; display: -moz-inline-box; -moz-box-orient: vertical; display: inline-block; vertical-align: middle; *vertical-align: auto; width: 14px; height: 14px; background: url("../img/icon_changelink_large.gif") 0 0 no-repeat; }
+  /* line 7, ../../../sass/compass/css3/_inline-block.scss */
+  .add-another + .changelink { *display: inline; }
+  /* line 17, ../../../sass/partials/_icons.scss */
   .tree .changelink { background-image: url("../img/icon_changelink_white.png"); }
-  /* line 15, ../../../sass/partials/_icons.scss */
+  /* line 19, ../../../sass/partials/_icons.scss */
   #sitemap li .col-softroot span.icon { background: url("../img/icon_softroot.png") 0 0 no-repeat; width: 15px; height: 15px; margin: 7px 5px 0 0; }
   /* line 2, ../../../sass/partials/_shortcuts.scss */
   .admin_shortcuts .shortcuts { -moz-box-shadow: none; -webkit-box-shadow: none; -o-box-shadow: none; box-shadow: none; background: #595f65; border-top: 1px solid #444444; color: #cccccc; }
