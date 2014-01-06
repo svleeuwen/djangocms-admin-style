@@ -16,6 +16,15 @@ Installation
 * add ``'djangocms_admin_style'`` to your INSTALLED_APPS just before ``'django.contrib.admin'``
 
 
+FeinCMS
+-------------
+
+When using FeinCMS you can install the feincms branch like this
+
+::
+    pip install git+https://github.com/svleeuwen/djangocms-admin-style.git@feincms#egg=djangocms-admin-style
+
+
 Customization
 =============
 
