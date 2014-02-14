@@ -2,6 +2,7 @@
 
 
 // Navigation Tabs
+#extension_options_wrapper .navi_tab,
 #main_wrapper .navi_tab {
   @include border-top-right-radius();
   @include border-top-left-radius();
@@ -13,11 +14,12 @@
   margin-top: 5px;
 }
 
+#extension_options_wrapper .navi_tab.tab_active,
 #main_wrapper .navi_tab.tab_active {
   @include background-image(linear-gradient($button-blue-light-color, $button-blue-medium-color) !important);
   border: 1px solid $button-blue-light-color !important;
   background-color: $button-blue-medium-color;
-  color: $button-blue-font-color;
+  color: $button-blue-font-color; 
   margin-top: 0;
 }
 
