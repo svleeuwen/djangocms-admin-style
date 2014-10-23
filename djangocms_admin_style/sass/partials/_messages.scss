@@ -1,7 +1,6 @@
 /* Statuses Mixins */
 
 @mixin message-info {
-	@include pie; 
 	@include background-image(linear-gradient( $info-color-light, $info-color 80%, $info-color-dark)); 
 	.close {
 		@include box-shadow($info-color 0 0 2px inset);
@@ -15,7 +14,6 @@
 	}
 }
 @mixin message-success {
-	@include pie; 
 	@include background-image(linear-gradient( $success-color-light, $success-color 80%, $success-color-dark)); 
 	.close {
 		@include box-shadow($success-color 0 0 2px inset);
@@ -29,7 +27,6 @@
 	}
 }
 @mixin message-warning {
-	@include pie; 
 	@include background-image(linear-gradient( $warning-color-light, $warning-color 80%, $warning-color-dark)); 
 	.close {
 		@include box-shadow($warning-color 0 0 2px inset);
@@ -44,7 +41,6 @@
 }
 
 @mixin message-error {
-	@include pie; 
 	@include background-image(linear-gradient( $error-color-light, $error-color 80%, $error-color-dark)); 
 	.close {
 		@include box-shadow($error-color 0 0 2px inset);
@@ -83,7 +79,6 @@
 		line-height: 2.9;	
 	}
 	.close {
-		@include pie; 
 		@include border-radius(10px); 
 		display: block;
 		cursor: pointer;
