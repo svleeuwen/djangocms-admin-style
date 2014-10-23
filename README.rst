@@ -1,3 +1,5 @@
+Added support for FeinCMS. See installation instructions below.
+
 ======================
 django CMS Admin Style
 ======================
@@ -21,6 +23,16 @@ When using FeinCMS you can install the feincms branch like this
 
 ::
     pip install
+
+
+FeinCMS
+-------------
+
+When using FeinCMS you can install the feincms branch like this
+
+::
+
+    pip install git+https://github.com/svleeuwen/djangocms-admin-style.git@feincms#egg=djangocms-admin-style
 
 
 Customization
