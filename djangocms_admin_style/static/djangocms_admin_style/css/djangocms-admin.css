@@ -224,7 +224,7 @@ nav ul, nav li { margin: 0; list-style: none; list-style-image: none; }
   .selector .selector-available input, .selector .selector-chosen input { width: 252px; margin: -5px 0 2px 0; }
   .selector .selector-filter { border: none; }
   .selector .selector-filter label { display: none; }
-  .selector select[multiple] { border: 1px solid #ddd; border-left: none; border-right: none; margin-bottom: 0; overflow-y: auto; }
+  .selector select[multiple] { border: 1px solid #ddd; border-left: none; border-right: none; margin-bottom: 0; overflow-x: hidden; overflow-y: auto; }
   body.login { background: #fcfcfc url("../img/bg-pattern.jpg") repeat !important; }
   body.login #container { -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; -moz-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); -webkit-box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.08); padding: 0; background: #fff; border: none; margin-bottom: 5px; border: none; width: 340px !important; -moz-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px, #fff 0px 1px 1px inset; -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px, #fff 0px 1px 1px inset; box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 2px, #fff 0px 1px 1px inset; }
   body.login #container h2, body.login #container h3, body.login #container h4, body.login #container h5, body.login #container h6 { margin-bottom: 12px; margin-top: 0; }
